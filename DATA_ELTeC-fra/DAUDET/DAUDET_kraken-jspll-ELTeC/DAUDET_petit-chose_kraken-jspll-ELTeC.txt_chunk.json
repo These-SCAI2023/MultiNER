@@ -1,0 +1,7080 @@
+{
+  "camenBert_ner_0": [
+    "Languedoc",
+    "Midi",
+    "Bibliotheque nationale de France",
+    "Marseille",
+    "Marseille",
+    "Marseille"
+  ],
+  "sm_0": [
+    "Languedoc",
+    "Midi",
+    "Carmelites",
+    "annees\\nde",
+    "jardin\\nde",
+    "a\\nla",
+    "Bibliotheque nationale de FranceLE",
+    "Eyssette",
+    "Annou",
+    "Marseille",
+    "pleurer\\npour",
+    "Marseille",
+    "Eyssette,\\nil",
+    "Marseille",
+    "avec\\nnos"
+  ],
+  "lg_0": [
+    "FABRIOUE\\n\\nJE\\nJe suis",
+    "Languedoc",
+    "Midi",
+    "Carmelites",
+    "Eyssette",
+    "Annou",
+    "Marseille",
+    "pleurer\\npour",
+    "Marseille",
+    "Marseille"
+  ],
+  "flair_0": [
+    "LA",
+    "Languedoc",
+    "Midi",
+    "Carmelites",
+    "Bibliotheque",
+    "Marseille",
+    "Marseille",
+    "Marseille",
+    "nA"
+  ],
+  "camenBert_ner_1": [],
+  "sm_1": [
+    "voir\\nla",
+    "sonna\\npas",
+    "\u00e9ducation,\\nje",
+    "Eyssette",
+    "donnee\\npour"
+  ],
+  "lg_1": [
+    "sonna\\npas",
+    "bientot",
+    "\u00e9ducation,\\nje",
+    "Eyssette",
+    "exageree"
+  ],
+  "flair_1": [
+    "Annou",
+    "nA"
+  ],
+  "camenBert_ner_2": [],
+  "sm_2": [
+    "d\\nde",
+    "Annou",
+    "revolutionnaires\\nn'",
+    "saintete",
+    "Eyssette",
+    "Eyssette",
+    "chaise\\nlongue",
+    "Annou",
+    "Annou"
+  ],
+  "lg_2": [
+    "d\\nde",
+    "soleil",
+    "au\\namiral",
+    "jACques",
+    "Annou",
+    "Revo-\\nlution",
+    "Eyssette",
+    "Eyssette",
+    "goutte,\\net",
+    "Annou",
+    "Eyssette",
+    "Annou"
+  ],
+  "flair_2": [],
+  "camenBert_ner_3": [],
+  "sm_3": [
+    "regardez-le",
+    "beaucoup\\nm\u00eame",
+    "beuf",
+    "laquelle\\nil",
+    "Vendredi,\\nune",
+    "venait\\nde"
+  ],
+  "lg_3": [
+    "beuf",
+    "Rouget,\\npour"
+  ],
+  "flair_3": [],
+  "camenBert_ner_4": [],
+  "sm_4": [
+    "ceur;\\nce",
+    "piece",
+    "Robinson",
+    "avais\\nquelquefois",
+    "bien,\\nil",
+    "Eyssette",
+    "de\\nme",
+    "avais\\nmis"
+  ],
+  "lg_4": [
+    "inson",
+    "ceur;\\nce",
+    "fle deserte",
+    "Oc\u00e9an",
+    "piece",
+    "bien,\\nil",
+    "Eyssette"
+  ],
+  "flair_4": [
+    "Les"
+  ],
+  "camenBert_ner_5": [
+    "s",
+    "Recollets"
+  ],
+  "sm_5": [
+    "montrer\\ntout",
+    "impression\\nil",
+    "un\\nmatin",
+    "rugir\\nen",
+    "Vendredi.\\nJe",
+    "tete"
+  ],
+  "lg_5": [
+    "montrer\\ntout",
+    "Recollets",
+    "Recollets",
+    "Vendredil",
+    "Robinson,\\nmon"
+  ],
+  "flair_5": [],
+  "camenBert_ner_6": [],
+  "sm_6": [
+    "austere\\nsolitude",
+    "visiterent\\nd'",
+    "Lri lx \\n,-,\\ns,\\np`\\n.\\n.y-;\\n",
+    "I\\nI-\\nci\\n\\n\\n",
+    "et4\\n-3\\n=\\n",
+    "L\\n-\\n"
+  ],
+  "lg_6": [
+    "d\\ncoup",
+    "De\\ntemps",
+    ".\\n\\n\\n1\\n3"
+  ],
+  "flair_6": [
+    "Dieul"
+  ],
+  "camenBert_ner_7": [
+    "Lyon"
+  ],
+  "sm_7": [
+    "vendu;\\nil",
+    "soleil",
+    "souvenir\\nde",
+    "Eyssette",
+    "Lyon",
+    "partis\\ndonc",
+    "Beaucaire",
+    "enorme\\nbrouette",
+    "Annou"
+  ],
+  "lg_7": [
+    "vendu;\\nil",
+    "soleil",
+    "Eyssette",
+    "Lyon",
+    "Beaucaire",
+    "Annou"
+  ],
+  "flair_7": [
+    "Lyon",
+    "Beaucaire"
+  ],
+  "camenBert_ner_8": [
+    "Lyon",
+    "Rh6ne",
+    "Rhone"
+  ],
+  "sm_8": [
+    "Lyon",
+    "signe\\nd'",
+    "traversee",
+    "villes:\\nje",
+    "sais\\nla",
+    "du Nord",
+    "allio"
+  ],
+  "lg_8": [
+    "Lyon",
+    "Eyssette",
+    "signe\\nd'",
+    "Rh6ne",
+    "Rhone",
+    "Midi",
+    "du Nord",
+    "allio"
+  ],
+  "flair_8": [
+    "Lyon",
+    "Le",
+    "Midi",
+    "du",
+    "PETIT"
+  ],
+  "camenBert_ner_9": [
+    "Lyon",
+    "Lyon"
+  ],
+  "sm_9": [
+    "etre\\neau",
+    "Lyon",
+    "En\\nmeme",
+    "Annou",
+    "serres\\nles",
+    "Annou",
+    "crois\\nque",
+    "A",
+    "chaque\\npas",
+    "navire,\\nune"
+  ],
+  "lg_9": [
+    "Annou",
+    "Annou",
+    "chaque\\npas"
+  ],
+  "flair_9": [
+    "Lyon"
+  ],
+  "camenBert_ner_10": [
+    "rue Lanterne"
+  ],
+  "sm_10": [
+    "Vendredil",
+    "etage\\ndans",
+    "Annou",
+    "dans\\nles",
+    "vouloir,\\non",
+    "plus\\nelle",
+    "evier,\\non",
+    "Lyon"
+  ],
+  "lg_10": [
+    "ancre,\\net",
+    "Vendredil",
+    "meilleure\\nvolonte du monde",
+    "fle deserte",
+    "rue Lanterne?\\n",
+    "Annou",
+    "spectaclel",
+    "credence",
+    "vouloir,\\non",
+    "effroyable\\nboucherie.\\nLes"
+  ],
+  "flair_10": [
+    "rue",
+    "Lyon",
+    "Les"
+  ],
+  "camenBert_ner_11": [
+    "Rhone",
+    "Midi",
+    "Perrache",
+    "Midi",
+    "Midi"
+  ],
+  "sm_11": [
+    "la meme\\nforme",
+    "Annou",
+    "carbonaden\\nce",
+    "Midi",
+    "honte\\nd'",
+    "Annou",
+    "Midi",
+    "Midi",
+    "parut\\nle",
+    "ca"
+  ],
+  "lg_11": [
+    "Annou",
+    "Rhone",
+    "Midi",
+    "Perrache",
+    "Midi",
+    "gardat",
+    "Arrivee",
+    "Midi"
+  ],
+  "flair_11": [
+    "Rhone",
+    "Midi",
+    "Perrache",
+    "Annou",
+    "Midi",
+    "Cette"
+  ],
+  "camenBert_ner_12": [],
+  "sm_12": [
+    "Eyssette",
+    "s\u00fbr.\\n-- Tu",
+    "Eyssette reprend:\\n- Ohl tu as beau",
+    "Jacques:\\n-",
+    "Pourvu",
+    "meilleur\\nhomme",
+    "Lyon",
+    "lorsque\\nnos"
+  ],
+  "lg_12": [
+    "Eyssette",
+    "Eyssette",
+    "Eyssette reprend:\\n- Ohl tu as beau",
+    "BABAROTTES\\n-",
+    "Eyssette",
+    "Eyssette",
+    "Lyon",
+    "lorsque\\nnos"
+  ],
+  "flair_12": [
+    "Lyon"
+  ],
+  "camenBert_ner_13": [
+    "Saint-Nizier",
+    "Saint-\\nNizier"
+  ],
+  "sm_13": [
+    "Saint-Nizier etait\\nl'",
+    "Micou",
+    "rang.- Presentez",
+    "Sanctus"
+  ],
+  "lg_13": [
+    "Saint-Nizier",
+    "Saint-\\nNizier.\\nC'",
+    "le\\njour",
+    "ma\\ncrecelle"
+  ],
+  "flair_13": [],
+  "camenBert_ner_14": [
+    "Pentecote",
+    "Somme",
+    "Midi",
+    "Lyon"
+  ],
+  "sm_14": [
+    "rabats\\nbordes",
+    "bien:\\naIl",
+    "Figurez",
+    "blancs\\nde M. Caduffe",
+    "Evangiles",
+    "Somme",
+    "Midi",
+    "Lyon",
+    "n\\nferons",
+    "\\n)\\n-l\\n l\\n s-\\n1 E.\\nIl-'\\n-\\n I\\nIl-\\n-\\neh\\njE\\n%\\n\\n\\n",
+    "-'\\nL\\nt\\n=\\n//\\n1/\\nart-\\nr\\n.\\n\\nZ\\n1\\n"
+  ],
+  "lg_14": [
+    "suisse",
+    "Somme",
+    "Un\\nami",
+    "Midi",
+    "ecrivit",
+    "Lyon",
+    "I\\n",
+    "l-.:\\nI\\n",
+    "E.\\nIl-'\\n-\\n"
+  ],
+  "flair_14": [
+    "Midi",
+    "Lyon"
+  ],
+  "camenBert_ner_15": [],
+  "sm_15": [
+    "tais\\nle",
+    "entrai\\ndans",
+    "Chose",
+    "buis",
+    "colle,\\net",
+    "besoin\\nde",
+    "Chose"
+  ],
+  "lg_15": [
+    "Choseln",
+    "colle,\\net"
+  ],
+  "flair_15": [],
+  "camenBert_ner_16": [
+    "place des\\nTerreaux",
+    "rue Lanterne"
+  ],
+  "sm_16": [
+    "petit\\nChose",
+    "feu,\\nassis",
+    "Eyssette",
+    "dictait:\\n\\n--",
+    "J'ai recu votre honoree",
+    "Chose",
+    "avec\\nun",
+    "III\\nIL",
+    "faire\\nune",
+    "maison,\\nil",
+    "rue Lanterne",
+    "commencais",
+    "tremblant;\\nmais"
+  ],
+  "lg_16": [
+    "Chosel",
+    "Eyssette",
+    "III\\nIL",
+    "faire\\nune",
+    "maison,\\nil",
+    "rue Lanterne"
+  ],
+  "flair_16": [],
+  "camenBert_ner_17": [
+    "Saint-\\nNizier"
+  ],
+  "sm_17": [
+    "IMa",
+    "Saint-\\nNizier",
+    "suite\\nque",
+    "Eyssette",
+    "bout\\nde",
+    "bras\\nouverte",
+    "la-bas",
+    "couchd,\\nmalade"
+  ],
+  "lg_17": [
+    "Saint-\\nNizier",
+    "Eyssette",
+    "Eyssette"
+  ],
+  "flair_17": [],
+  "camenBert_ner_18": [
+    "Loyasse"
+  ],
+  "sm_18": [
+    "petit\\nChose",
+    "e",
+    "ombre,\\nmc",
+    "lampes\\nde"
+  ],
+  "lg_18": [
+    "Rien N'"
+  ],
+  "flair_18": [],
+  "camenBert_ner_19": [],
+  "sm_19": [
+    "depeche\\ncachde",
+    "ouvris,\\ntu",
+    "appris\\nrien",
+    "courage,\\nje",
+    "yeux\\nme"
+  ],
+  "lg_19": [
+    "courage,\\nje"
+  ],
+  "flair_19": [],
+  "camenBert_ner_20": [],
+  "sm_20": [
+    "plus\\ntard",
+    "serrait\\nle",
+    "lampe\\neclairait",
+    "LIl\\nde",
+    "nous\\npleurames",
+    "larmes.\\nEcoutez",
+    "aimais",
+    "je\\nvais",
+    "E\\ne-z.L5----\\n\\n17.\\n3\\nI\\n"
+  ],
+  "lg_20": [
+    "poussde",
+    "MI",
+    "Eyssettte",
+    "eperdus",
+    "F\\n-\\n",
+    "E\\ne-z.L5----\\n\\n17.\\n3\\nI\\n"
+  ],
+  "flair_20": [],
+  "camenBert_ner_21": [
+    "Lyon",
+    "Saint-Nizier"
+  ],
+  "sm_21": [
+    "g\\n-t\\n",
+    "\\n",
+    "g\\n-=g\\nL--\\n`-.\\n1\\n1\\ng\\n-\\nc-\\n",
+    "joues\\nune",
+    "Regardez",
+    "lorsquelle",
+    "Lyon",
+    "Eyssette",
+    "Saint-Nizier",
+    "voir\\nJacques",
+    "temps,\\nmais"
+  ],
+  "lg_21": [
+    "\\n-\\nl\\ny\\n\\n1R-A\\n\\n1\\nI\\n21\\nLA--3\\nM\\n1\\n\\nt\\nI-\\nY\\',a-",
+    "Y-\\n\\n",
+    "C",
+    "Lyon",
+    "Eyssette",
+    "Saint-Nizier",
+    "CHOSE\\nIl"
+  ],
+  "flair_21": [
+    "nLE",
+    "Lyon"
+  ],
+  "camenBert_ner_22": [],
+  "sm_22": [
+    "grands\\npas",
+    "peur\\nquand",
+    "Pas",
+    "n\\nAhl",
+    "Eyssette"
+  ],
+  "lg_22": [
+    "Pas",
+    "HEssETTE",
+    "AcovEs)\\nC'",
+    "Eyssette"
+  ],
+  "flair_22": [
+    "A"
+  ],
+  "camenBert_ner_23": [],
+  "sm_23": [
+    "premiers\\nvers",
+    "Muse",
+    "le cahier\\nrouge",
+    "Chose\\nest",
+    "franchir\\nquatre",
+    "belle\\nronde",
+    "Eyssette",
+    "perdu\\nle",
+    "lecteur\\nne"
+  ],
+  "lg_23": [
+    "Le\\npokete",
+    "poesies\\ndu petit Chose",
+    "Eyssette"
+  ],
+  "flair_23": [],
+  "camenBert_ner_24": [
+    "mont-de-piete"
+  ],
+  "sm_24": [
+    "mont-de-piete",
+    "pretentieux,\\nse",
+    "Chose",
+    "puis\\nil",
+    "Lyon",
+    "Nous\\nenfoncer"
+  ],
+  "lg_24": [
+    "mont-de-piete",
+    "Lyon"
+  ],
+  "flair_24": [
+    "Lyon"
+  ],
+  "camenBert_ner_25": [
+    "Midi",
+    "Lyon",
+    "mont-de-piete"
+  ],
+  "sm_25": [
+    "porte\\nfermee",
+    "ta mere\\nva",
+    "Midi",
+    "Lyon",
+    "mont-de-piete",
+    "maitre\\nd'",
+    "Eyssette",
+    "Lyon",
+    "Annou",
+    "Robinson",
+    "E"
+  ],
+  "lg_25": [
+    "Eyssette",
+    "Midi",
+    "Lyon",
+    "sanglot,\\net",
+    "Eyssette",
+    "Lyon",
+    "Annou"
+  ],
+  "flair_25": [
+    "Midi",
+    "Lyon",
+    "Lyon",
+    "E"
+  ],
+  "camenBert_ner_26": [
+    "Lyon",
+    "Rhone",
+    "Vienne"
+  ],
+  "sm_26": [
+    "Chose",
+    "Sois serieux",
+    "Que Voulez-vous\\nLa",
+    "Lyon",
+    "Chose",
+    "empechait\\nde",
+    "navire,\\net",
+    "Vienne",
+    "notre\\nphilosophe",
+    "paquet\\nde"
+  ],
+  "lg_26": [
+    "Lyon",
+    "Rhone",
+    "Vienne"
+  ],
+  "flair_26": [
+    "Lyon",
+    "Rhone",
+    "Vienne"
+  ],
+  "camenBert_ner_27": [
+    "Academie"
+  ],
+  "sm_27": [
+    "venu\\ns'",
+    "porte\\nencore",
+    "quarts\\ndeplume",
+    "Academie",
+    "Eyssette",
+    "Eyssette",
+    "le metier\\nte",
+    "il\\nfaut",
+    "cela\\npour"
+  ],
+  "lg_27": [
+    "vie\\nil",
+    "Eyssette"
+  ],
+  "flair_27": [
+    "Sarlande"
+  ],
+  "camenBert_ner_28": [
+    "nSarlande",
+    "Academie",
+    "Sarlande",
+    "\\nLE PETIT CHOSE",
+    "C0",
+    "GNON"
+  ],
+  "sm_28": [
+    "remit\\nau petit Chose",
+    "la\\njoue",
+    "Chose",
+    "l1'Academie",
+    "quete\\nd'",
+    "Chose",
+    "compa-\\n",
+    "comptoir\\nun",
+    "Holhal",
+    "Misericordel",
+    "voilh\\ndans"
+  ],
+  "lg_28": [
+    "la\\njoue",
+    "PETIT CHOSE\\nl'esplanade",
+    "compa-\\n",
+    "Annoul"
+  ],
+  "flair_28": [],
+  "camenBert_ner_29": [],
+  "sm_29": [
+    "Annou",
+    "Eyssette",
+    "compagnons,\\nmariee ha ean Peyrol",
+    "Annou",
+    "comme\\nelle",
+    "comme\\nelle",
+    "femme\\nest",
+    "apprend\\nque",
+    "Avez",
+    "Annou3\\n5\\n.n\\n\\n1\\n\\n\\nl\\n",
+    "\\n2\\nC\\n\\n tu N.\\n\\na\\n\\n\\n\\n\\nM\\nI.1\\nii\\niii\\n1\\ni-----'\\n----f.\\n4\\n'\\n;\\n\\ny\\n",
+    "-'-\\n.\\n",
+    "f\\n1\\nai\\n\\n",
+    "L.R\\n",
+    "I-:\\n",
+    ".\\n\\nr",
+    "\\n\\n-s'`,,",
+    "5\\n\\n-\\n-LYI",
+    "petit\\nChose",
+    "Annou"
+  ],
+  "lg_29": [
+    "Annou",
+    "Eyssette",
+    "Annou",
+    "comme\\nelle",
+    "Annou3\\n5\\n.n\\n\\n1\\n\\n\\nl\\n",
+    "r'.\\n",
+    ".\\n",
+    "I\\nr\\n1\\nI.\\n\\n.\\nr\\n'I.-\\n",
+    "F\\n",
+    ".\\n\\nr",
+    "F\\n2\\n`L\u00e0",
+    "ROUGE\\n\\ncourt",
+    "Annou",
+    "Chateau-\\nNeuf-des"
+  ],
+  "flair_29": [
+    "Chateau"
+  ],
+  "camenBert_ner_30": [
+    "1'",
+    "1'",
+    "Lyon",
+    "rue Lanterne"
+  ],
+  "sm_30": [
+    "Chose",
+    "quatre\\nou",
+    "Eyssette",
+    "Annou",
+    "fait\\nd'Annou",
+    "aH",
+    "Lyon",
+    "rue Lanterne",
+    "de France",
+    "notre cher"
+  ],
+  "lg_30": [
+    "Templier,\\nmange",
+    "Hospitalier",
+    "Annou\\ns'",
+    "Annou",
+    "mange,\\nil",
+    "Eyssette",
+    "Annou",
+    "Annou",
+    "Lyon",
+    "rue Lanterne",
+    "de France",
+    "ean Peyrol"
+  ],
+  "flair_30": [
+    "Lyon",
+    "rue",
+    "de"
+  ],
+  "camenBert_ner_31": [
+    "Angleterre",
+    "Sarlande",
+    "Cevennes"
+  ],
+  "sm_31": [
+    "Petit Chose\\nveut",
+    "histoire\\nest",
+    "pas.\\nDeja",
+    "vers\\nles",
+    "Cevennes",
+    "grand\\nmur",
+    "tramontane\\nsouffle",
+    "Chose"
+  ],
+  "lg_31": [
+    "Petit Chose\\nveut",
+    "Angleterre,\\nreprit",
+    "Cevennes",
+    "batie"
+  ],
+  "flair_31": [
+    "Angleterre",
+    "Chose",
+    "TA",
+    "Cevennes"
+  ],
+  "camenBert_ner_32": [],
+  "sm_32": [
+    "large\\ndevant",
+    "ouvrit\\nd'",
+    "posa\\nma",
+    "maitre\\nd'",
+    "pour\\nun",
+    "grands\\net"
+  ],
+  "lg_32": [
+    "fonctions.\\nLe college",
+    "ouvrit\\nd'",
+    "me\\ndesignant"
+  ],
+  "flair_32": [],
+  "camenBert_ner_33": [
+    "La\\nmaison"
+  ],
+  "sm_33": [
+    "dehors\\non",
+    "montons\\nchez",
+    "La\\nmaison",
+    "Cassagne"
+  ],
+  "lg_33": [
+    "montons\\nchez",
+    "La\\nmaison",
+    "Entrezl",
+    "seche"
+  ],
+  "flair_33": [],
+  "camenBert_ner_34": [],
+  "sm_34": [
+    "balbutier\\ndeux",
+    "relut\\nencore",
+    "grace",
+    "a\\nme"
+  ],
+  "lg_34": [
+    "a\\nme"
+  ],
+  "flair_34": [],
+  "camenBert_ner_35": [
+    "La Porte S"
+  ],
+  "sm_35": [
+    "M. Serrieres.n\\nToujours",
+    "Allez",
+    "la main\\nun",
+    "clefs\\nd'",
+    "tous\\nles fantOmes",
+    "vieille\\ntenait"
+  ],
+  "lg_35": [
+    "mais\\nles",
+    "frenesie",
+    "Eyssette",
+    "\\nPuis"
+  ],
+  "flair_35": [
+    "L'une"
+  ],
+  "camenBert_ner_36": [
+    "Sarlande",
+    "Afrique"
+  ],
+  "sm_36": [
+    "disparu\\nque",
+    "impression\\nde",
+    "lunettes\\nmarchant",
+    "etait\\npas",
+    "petit\\nhotel",
+    "avait\\nservi",
+    "Afrique",
+    "porte de l'hotel",
+    "et\\nil",
+    "petit\\nChose",
+    "Eyssette",
+    "hier\\nd'"
+  ],
+  "lg_36": [
+    "Afrique",
+    "toitl"
+  ],
+  "flair_36": [
+    "Sarlande",
+    "d'Afrique"
+  ],
+  "camenBert_ner_37": [],
+  "sm_37": [
+    "courant\\nde",
+    "deux\\nmains",
+    "force\\nd'",
+    "autres\\nfois",
+    "installant\\nau",
+    "seul\\nde",
+    "professeur.\\n1\\n1\\n7\\n-\\nl\\n\\n L--\\n14\\n-aI\\nZ2\\n-\\ny\\n\\nE\\n\\n.\\n"
+  ],
+  "lg_37": [
+    "et-",
+    "saluant\\njusqu'"
+  ],
+  "flair_37": [],
+  "camenBert_ner_38": [],
+  "sm_38": [
+    "suite\\ncet original",
+    "souriant,\\ntoujours",
+    "Serrieres",
+    "pas.\\nCeci",
+    "Chose",
+    "vendu\\nson",
+    "Ca",
+    "Serrieres",
+    "Venez",
+    "Barbette",
+    "soyez",
+    "etait\\nsitue",
+    "shakos\\net",
+    "Serrieres"
+  ],
+  "lg_38": [
+    "Serrieres",
+    "Ca",
+    "Serrieres",
+    "Serrieres"
+  ],
+  "flair_38": [
+    "Serrieres",
+    "Serrieres",
+    "Serrieres"
+  ],
+  "camenBert_ner_39": [
+    "Sarlande"
+  ],
+  "sm_39": [
+    "Serrieres",
+    "Barbette",
+    "bien\\ntombe",
+    "Barbette",
+    "tressaillant.\\n-- Ohl",
+    "fonctions\\nd'",
+    "Serrieres",
+    "Barbette"
+  ],
+  "lg_39": [
+    "Serrieres",
+    "PETIT CHOSE\\nson",
+    "Serrieres",
+    "Serrieres"
+  ],
+  "flair_39": [
+    "Serrieres",
+    "nLE",
+    "Serrieres",
+    "A",
+    "Serrieres"
+  ],
+  "camenBert_ner_40": [
+    "Lyon"
+  ],
+  "sm_40": [
+    "Chose",
+    "maison\\npaternelle",
+    "Lyon",
+    "mauvais\\nrose",
+    "un\\ntoast",
+    "Chose",
+    "punch\\nd'",
+    "conduire\\nvos",
+    "Serrieres"
+  ],
+  "lg_40": [
+    "maison\\npaternelle",
+    "Lyon",
+    "l\\nCe",
+    "gargonGAGNE TA VIE\\n43\\ncondamne",
+    "partir,\\nRoger",
+    "Serrieres"
+  ],
+  "flair_40": [
+    "Lyon",
+    "Serrieres"
+  ],
+  "camenBert_ner_41": [],
+  "sm_41": [
+    "ma\\nvoix",
+    "Serrieres",
+    "pele-mele",
+    "table,\\non",
+    "avais",
+    "bon-\\nhomme"
+  ],
+  "lg_41": [
+    "levres",
+    "ma\\nvoix",
+    "Est",
+    "minutes.\\nLe",
+    "Serrieres",
+    "pele-mele",
+    "table,\\non",
+    "Debuts"
+  ],
+  "flair_41": [
+    "Serrieres"
+  ],
+  "camenBert_ner_42": [],
+  "sm_42": [
+    "L-L\\nLE PETIT CHOSE\\nlitteraire",
+    "Chose",
+    "Eyssette",
+    "clefs\\nfaisait",
+    "notre\\netude",
+    "Lapin.\\nEn",
+    "resta\\nune"
+  ],
+  "lg_42": [
+    "Eyssette",
+    "Iz"
+  ],
+  "flair_42": [
+    "Or"
+  ],
+  "camenBert_ner_43": [
+    "cafe Barbette",
+    "ca",
+    "Barbette"
+  ],
+  "sm_43": [
+    "meLEsS",
+    "Chose",
+    "Barbette",
+    "Cassagne",
+    "Barbette"
+  ],
+  "lg_43": [
+    "portier Cassagne",
+    "Arabes"
+  ],
+  "flair_43": [
+    "PETITS"
+  ],
+  "camenBert_ner_44": [
+    "Prairie"
+  ],
+  "sm_44": [
+    "porte.\\n- Qui",
+    "la\\n- C'",
+    "Mole",
+    "cahier\\nrouge",
+    "nomme\\nprofesseur",
+    "Prairie",
+    "toujours\\nmoi"
+  ],
+  "lg_44": [
+    "legcon",
+    "Chose.8\\nLE",
+    "CHOSE\\nMais",
+    "bravel",
+    "la Prairie"
+  ],
+  "flair_44": [
+    "Prairie",
+    "Les"
+  ],
+  "camenBert_ner_45": [
+    "Prairie"
+  ],
+  "sm_45": [
+    "sais\\npour",
+    "Prairie",
+    "division\\ndes",
+    "Gardez",
+    "plus\\ngrand",
+    "M\\ncAhA\\naI\\n\\",
+    "C(.%\\ni",
+    "Y9\\n",
+    "c.l\\n1"
+  ],
+  "lg_45": [
+    "Prairie",
+    "IMes",
+    "A\\nl,\\n/.\\n\\n1l\\nl1",
+    "h\\nt.\\n7",
+    "\\n3-\\n",
+    "AI\\nt.\\n1\\n1\\n",
+    "M\\ncAhA\\naI\\n\\",
+    "C(.%\\ni",
+    "Y9\\n"
+  ],
+  "flair_45": [
+    "la",
+    "Les"
+  ],
+  "camenBert_ner_46": [
+    "Sarlande"
+  ],
+  "sm_46": [
+    "bonnet\\nrose",
+    "ruisseau,\\net",
+    "voyais",
+    "Bamban",
+    "amusaient\\nbeaucoup",
+    "Bamban",
+    "nombreux\\ndesordres"
+  ],
+  "lg_46": [
+    "ruisseau,\\net",
+    "Bamban",
+    "Bamban"
+  ],
+  "flair_46": [],
+  "camenBert_ner_47": [],
+  "sm_47": [
+    "E",
+    "grand\\nsoleil",
+    "sais\\nquoi",
+    "Va-t'enl",
+    "division\\ns'branla",
+    "sortir\\nde",
+    "lapromenadc\\ngravement.\\n- Doublez",
+    "bancal,\\net",
+    "Prairie"
+  ],
+  "lg_47": [
+    "grand\\nsoleil",
+    "sais\\nquoi",
+    "collegel",
+    "Bamban",
+    "lapromenadc\\ngravement.\\n- Doublez",
+    "bancal,\\net",
+    "la Prairie"
+  ],
+  "flair_47": [
+    "nA",
+    "Prairie"
+  ],
+  "camenBert_ner_48": [
+    "Lyon"
+  ],
+  "sm_48": [
+    "Chose",
+    "vanter\\npartout",
+    "membres,\\nle",
+    "batons\\nen"
+  ],
+  "lg_48": [
+    "membres,\\nle",
+    "Bamban",
+    "Bamban faisait\\ndes batons"
+  ],
+  "flair_48": [
+    "Lyon."
+  ],
+  "camenBert_ner_49": [
+    "L",
+    "est"
+  ],
+  "sm_49": [
+    "principal\\nne",
+    "leurs\\nparents",
+    "patois\\ncevenol"
+  ],
+  "lg_49": [
+    "Prairie",
+    "Bamban"
+  ],
+  "flair_49": [],
+  "camenBert_ner_50": [
+    "nCevennes"
+  ],
+  "sm_50": [
+    "Pion",
+    "assit\\ndans",
+    "voudrais",
+    "tenezl",
+    "L.-LLLLL",
+    "donner\\nl'",
+    "hommes\\nserieux",
+    "Eyssette"
+  ],
+  "lg_50": [
+    "tenezl",
+    "fievre",
+    "ELlE-ELLE",
+    "Eyssette"
+  ],
+  "flair_50": [],
+  "camenBert_ner_51": [
+    "Sarlande"
+  ],
+  "sm_51": [
+    "horrible\\nfee"
+  ],
+  "lg_51": [],
+  "flair_51": [
+    "Les"
+  ],
+  "camenBert_ner_52": [
+    "Vieux-College"
+  ],
+  "sm_52": [
+    "voir\\napparaitre M. Viot",
+    "haut,\\nderriere",
+    "longues\\ndistances",
+    "abbe Germane",
+    "tete",
+    "arriere",
+    "soutane\\nrelevee",
+    "petite\\neurope",
+    "CHOSE\\na",
+    "Vieux-College",
+    "mechants\\nvauriens",
+    "Le\\nsoir"
+  ],
+  "lg_52": [
+    "abbe Germane",
+    "Vieux-College",
+    "mechants\\nvauriens"
+  ],
+  "flair_52": [],
+  "camenBert_ner_53": [
+    "Sarlande"
+  ],
+  "sm_53": [
+    "tant\\neffraye",
+    "Germane",
+    "Titan.\\nLe",
+    "chaise\\nbasse",
+    "c\\n OUi,\\nIl\\n e' '-\\n= \\n1\\n",
+    "N-.--\\n-C",
+    "-\\n\\n",
+    "\\n1-\\n-\\n\\n",
+    "PION\\n57\\nAccoude"
+  ],
+  "lg_53": [
+    "le\\nbonhomme",
+    "bibliotheque du college",
+    "abbe Germane",
+    "I\\n9\\n"
+  ],
+  "flair_53": [],
+  "camenBert_ner_54": [],
+  "sm_54": [
+    "Germane\\nen",
+    "pendu\\nla-bas",
+    "meilleur\\nque",
+    "Condillac",
+    "regardant\\ndans",
+    "histoires,\\n moN cher",
+    "Germane",
+    "entendre\\nce"
+  ],
+  "lg_54": [
+    "ESt-ce",
+    "m\\ndisposais",
+    "Est",
+    "abbe Germane"
+  ],
+  "flair_54": [],
+  "camenBert_ner_55": [],
+  "sm_55": [
+    "L\\n- A",
+    "abbe Germane",
+    "l\\nchambre",
+    "abbe Germane",
+    "grandes\\nenjambees",
+    "grands\\namis",
+    "jour\\nles"
+  ],
+  "lg_55": [
+    "CHOSE\\n",
+    "abbe Germane",
+    "abbe",
+    "abbe Germane"
+  ],
+  "flair_55": [],
+  "camenBert_ner_56": [],
+  "sm_56": [
+    "vois\\nencore",
+    "Aucun",
+    "paraissait\\npas",
+    "ophicleides,\\nreluisant",
+    "l\\nmaitres",
+    "professeur\\nde",
+    "couraient\\nd'"
+  ],
+  "lg_56": [
+    "Au\\nfond",
+    "college\\ndans",
+    "superiorite\\nelle",
+    "serre-fille"
+  ],
+  "flair_56": [],
+  "camenBert_ner_57": [],
+  "sm_57": [
+    "fenetre\\ndu",
+    "leurs\\nailleurs",
+    "saluant\\nles",
+    "principal\\navec",
+    "meres\\net"
+  ],
+  "lg_57": [
+    "Immobile6o\\nLE",
+    "principal\\navec",
+    "chateaul"
+  ],
+  "flair_57": [
+    "A"
+  ],
+  "camenBert_ner_58": [],
+  "sm_58": [
+    "charges\\nde",
+    "grosses\\nmouches",
+    "Chose",
+    "quelques\\npas"
+  ],
+  "lg_58": [
+    "vin\\nmuscat",
+    "PETIT CHOSE\\nchasser"
+  ],
+  "flair_58": [
+    "VII"
+  ],
+  "camenBert_ner_59": [],
+  "sm_59": [
+    "Chose",
+    "Chose",
+    "bleus\\nqui",
+    "mais\\nil",
+    "Eyssette",
+    "Chose",
+    "Eyssette",
+    "Cevennes"
+  ],
+  "lg_59": [
+    "sommeil.\\nAu",
+    "mais\\nil",
+    "Est",
+    "Eyssette",
+    "tournee",
+    "Cevennes"
+  ],
+  "flair_59": [
+    "Cevennes"
+  ],
+  "camenBert_ner_60": [
+    "College"
+  ],
+  "sm_60": [
+    "College",
+    "Daniel",
+    "oubliant\\nbien",
+    "Jacquesl\\n- Jacques"
+  ],
+  "lg_60": [
+    "College",
+    "collegel"
+  ],
+  "flair_60": [
+    "College"
+  ],
+  "camenBert_ner_61": [
+    "Cevennes"
+  ],
+  "sm_61": [
+    "petit\\nChose",
+    "Eyssette",
+    "petit\\nChose",
+    "Cevennes",
+    "grand\\nfauteuil",
+    "tete",
+    "yeux\\nnoirs",
+    "tete-a-tete",
+    "petit\\nChose"
+  ],
+  "lg_61": [
+    "Eyssette",
+    "mERci",
+    "Cette\\nfemme",
+    "luil"
+  ],
+  "flair_61": [
+    "Cevennes.",
+    "Cette"
+  ],
+  "camenBert_ner_62": [],
+  "sm_62": [
+    "Chose\\nreve",
+    "YEUX",
+    "l\\nce",
+    "soupirant.\\nQuand",
+    "Chose",
+    "courage\\ndc",
+    "Chose",
+    "lettre\\nimportance",
+    "Chose",
+    "l\\nmatin",
+    "sont\\nles"
+  ],
+  "lg_62": [
+    "rien.\\nLes",
+    "QUi l\\nce"
+  ],
+  "flair_62": [],
+  "camenBert_ner_63": [],
+  "sm_63": [
+    "remettre\\nd\u00e8s",
+    "noirs\\nentreront",
+    "bat;\\nil",
+    "Chose",
+    "jamais.\\nOn",
+    "l\\ncollege"
+  ],
+  "lg_63": [
+    "remettre\\nd\u00e8s"
+  ],
+  "flair_63": [],
+  "camenBert_ner_64": [
+    "\u00c9glise",
+    "Limoux"
+  ],
+  "sm_64": [
+    "Chose",
+    "ceremonie",
+    "couleur\\ntendre",
+    "p\u00e2le-mele",
+    "Chose",
+    "petit Chose\\nse",
+    "coup,\\nl\u00e0-bas",
+    "Chose",
+    "revoir\\nl'",
+    "Saint-Esprit",
+    "renfort\\nde",
+    "Limoux",
+    "tapissieres\\npavoisees",
+    "trainant\\nha"
+  ],
+  "lg_64": [
+    "couleur\\ntendre",
+    "p\u00e2le-mele",
+    "Chose\\nse",
+    "coup,\\nl\u00e0-bas",
+    "Limoux",
+    "oui-\\nnaire",
+    "maitres,-"
+  ],
+  "flair_64": [
+    "ILe",
+    "Limoux"
+  ],
+  "camenBert_ner_65": [
+    "Prairie"
+  ],
+  "sm_65": [
+    "tete",
+    "gros\\nbonnets",
+    "nuit\\nse",
+    "Prairie",
+    "voyant\\nmessieurs",
+    "bouchons\\nsautent",
+    "Chose",
+    "coup\\non",
+    "que\\nm'",
+    "Chose",
+    "Chose"
+  ],
+  "lg_65": [
+    "Les\\nfouets",
+    "la Prairie",
+    "lisezl",
+    "Limoux\\nSeuleme"
+  ],
+  "flair_65": [
+    "la",
+    "A",
+    "Les",
+    "Les",
+    "Limoux"
+  ],
+  "camenBert_ner_66": [],
+  "sm_66": [
+    "Germane\\nmurmurer",
+    "Muse badine",
+    "Musc\\nsevere.\\nM. Viot",
+    "Menalque",
+    "Menalque",
+    "Menalque",
+    "sourire\\namer",
+    "courage\\nd'",
+    "Chose,\\na",
+    "la\\nmusique",
+    "ville\\nendormir",
+    "Chose"
+  ],
+  "lg_66": [
+    "Chose,\\na"
+  ],
+  "flair_66": [],
+  "camenBert_ner_67": [],
+  "sm_67": [
+    "clefs\\nde",
+    "Saint-Theophile",
+    "longtemps\\noublie",
+    "memes\\nenfants",
+    "Menalque",
+    "pensums\\net",
+    "pleine\\nrevolte"
+  ],
+  "lg_67": [
+    "Saint-Theophile",
+    "On\\ns'",
+    "tomberent"
+  ],
+  "flair_67": [
+    "Les"
+  ],
+  "camenBert_ner_68": [
+    "Sarlandais"
+  ],
+  "sm_68": [
+    "macaques.\\nQuelquefois",
+    "ma\\nadresse",
+    "Sarlandais",
+    "noblesse\\ncevenole"
+  ],
+  "lg_68": [
+    "diable,\\nau",
+    "Cocorico.l",
+    "Saint-Theophile,\\nl'",
+    "Sarlandais",
+    "noblesse\\ncevenole",
+    "Sarlande"
+  ],
+  "flair_68": [
+    "Sarlande"
+  ],
+  "camenBert_ner_69": [],
+  "sm_69": [
+    "impertinentes\\nde",
+    "avais\\naffaire",
+    "repliquer\\nen",
+    "Boucoyran",
+    "mon\\nsang-froid",
+    "Boucoyran",
+    "nOuveau.\\nLes"
+  ],
+  "lg_69": [
+    "Boucoyran",
+    "stupefait,\\net",
+    "Boucoyran",
+    "nOuveau.\\nLes",
+    "le\\nprendre"
+  ],
+  "flair_69": [],
+  "camenBert_ner_70": [],
+  "sm_70": [
+    "Boucoyran",
+    "prestige.\\nQuand",
+    "marquis\\nde Boucoyran",
+    "Boucoyran"
+  ],
+  "lg_70": [
+    "vigueur.\\nLes",
+    "Boucoyran",
+    "Boucoyran",
+    "le\\nmarquis",
+    "alle",
+    "Boucoyran",
+    "Boucoyran"
+  ],
+  "flair_70": [],
+  "camenBert_ner_71": [],
+  "sm_71": [
+    "ses\\ndents.\\n",
+    "saluerentIIIRIAR",
+    "\\n\\n",
+    "mon cote.\\n;T::--\\nremplir",
+    "bout.\\nApres",
+    "Boucoyran",
+    "quelle\\naction",
+    "clefs\\nde M. Viot"
+  ],
+  "lg_71": [
+    "saluerentIIIRIAR",
+    "L\\n-\\n"
+  ],
+  "flair_71": [],
+  "camenBert_ner_72": [
+    "Petite-Cercle",
+    "Grand-Cercle"
+  ],
+  "sm_72": [
+    "etude\\nun grand brouhaha",
+    "Boucoyran",
+    "Petite-Cercle",
+    "Grand-Cercle",
+    "bien\\ninformes",
+    "Boucoyran",
+    "chaque\\nfois",
+    "aventure\\net",
+    "etre\\nrenvoye",
+    "menacaient\\nde",
+    "Boucoyran",
+    "Bou-\\nc"
+  ],
+  "lg_72": [
+    "Boucoyran",
+    "Ma Petite-Cercle",
+    "Grand-Cercle",
+    "CHOSE\\nles cafes",
+    "Boucoyran",
+    "Boucoyran",
+    "Bou-\\nc"
+  ],
+  "flair_72": [
+    "Grand-Cercle",
+    "Les"
+  ],
+  "camenBert_ner_73": [
+    "1'Eveche",
+    "la Prairie",
+    "'Eveche",
+    "colichemarde"
+  ],
+  "sm_73": [
+    "la\\nmais",
+    "tres\\nfort",
+    "le monde\\nriait",
+    "Prairie",
+    "maitre\\nd'",
+    "mesurer\\navec",
+    "fini;\\nil"
+  ],
+  "lg_73": [
+    "tres\\nfort",
+    "la Prairie",
+    "oubli6"
+  ],
+  "flair_73": [],
+  "camenBert_ner_74": [
+    "cafe Barbette",
+    "cafe Barbette",
+    "cafe Barbette"
+  ],
+  "sm_74": [
+    "tant\\nd'",
+    "aller\\nconclure",
+    "Barbette",
+    "Barbette",
+    "trouverez la-bas des amis",
+    "Barbette",
+    "autre\\nl'",
+    "Boucoyran",
+    "fait\\ndans",
+    "pays de montag"
+  ],
+  "lg_74": [
+    "Parfaitl Venez",
+    "Boucoyran"
+  ],
+  "flair_74": [
+    "JOURS"
+  ],
+  "camenBert_ner_75": [
+    "cafe Barbette",
+    "cafe Barbette"
+  ],
+  "sm_75": [
+    "Barbette",
+    "Boucoyran",
+    "marquais\\nles",
+    "Danielln",
+    "tais\\nfier"
+  ],
+  "lg_75": [
+    "On\\nformait",
+    "PETIT CHOSE\\nLLLLLLL-LLLLLLLL-",
+    "Boucoyran",
+    "Danielln"
+  ],
+  "flair_75": [
+    "Les",
+    "A"
+  ],
+  "camenBert_ner_76": [
+    "\\nSarlande",
+    "Paris"
+  ],
+  "sm_76": [
+    "certainc\\npersonne",
+    "serait\\npas",
+    "Parfait",
+    "Paris",
+    "Chose",
+    "cette\\nmysterieuse"
+  ],
+  "lg_76": [
+    "elevee",
+    "Paris",
+    "Lam"
+  ],
+  "flair_76": [
+    "Cette",
+    "Paris"
+  ],
+  "camenBert_ner_77": [],
+  "sm_77": [
+    "Elvire",
+    "rocher\\nsauvage",
+    "Chose\\nne",
+    "ne\\nme",
+    "confidences\\ntoutes",
+    "ca mordl",
+    "continuezn",
+    "Fanfan-la-Italie",
+    "sous-prefectureln\\nEst",
+    "soir8o\\nLE"
+  ],
+  "lg_77": [
+    "Elvire",
+    "melait:\\nOhl ta levre",
+    "moil",
+    "Fanfan-la-Italie"
+  ],
+  "flair_77": [],
+  "camenBert_ner_78": [
+    "Paris"
+  ],
+  "sm_78": [
+    "Paris",
+    "elle\\nm'",
+    "ICI\\n",
+    "\\n",
+    "\\n\\n",
+    "n\\n.\\n3",
+    "\\n",
+    "\\n\\nN\\ne\\n",
+    "-mele\\ndans",
+    "ca",
+    "visible\\ndes"
+  ],
+  "lg_78": [
+    "Paris",
+    "L\\n-.\\n\\n.\\n.---\\n",
+    ".\\n\\n.\\n-----\\n",
+    "e1\\nT\\nE\\ny:",
+    "surveillais.\\nCe"
+  ],
+  "flair_78": [
+    "Paris"
+  ],
+  "camenBert_ner_79": [
+    "Paris",
+    "Paris",
+    "Paris",
+    "Lyon",
+    "Parisl Ici"
+  ],
+  "sm_79": [
+    "Pas",
+    "comble,\\nque",
+    "Paris",
+    "Paris",
+    "Cher",
+    "Paris",
+    "Lyon",
+    "Saint-Nizier",
+    "Providence",
+    "Parisl Ici",
+    "fenetres,\\nretentit"
+  ],
+  "lg_79": [
+    "Paris",
+    "Paris",
+    "Paris",
+    "Lyon",
+    "MI",
+    "Saint-Nizier",
+    "Providence",
+    "dictce",
+    "Ce\\nn'",
+    "Parisl Ici"
+  ],
+  "flair_79": [
+    "Paris",
+    "Paris",
+    "Paris",
+    "Lyon"
+  ],
+  "camenBert_ner_80": [
+    "Sarlande",
+    "Sarlande",
+    "Bretagne",
+    "Espagne",
+    "Quartier Latin"
+  ],
+  "sm_80": [
+    "Bretagne",
+    "boit\\nque",
+    "d'Espagne",
+    "pere;\\nsais-",
+    "comme\\ntoujours",
+    "Barbette",
+    "effet\\nd'",
+    "Jacques.\\nA"
+  ],
+  "lg_80": [
+    "les\\nelle",
+    "coin,\\net",
+    "Bretagne",
+    "oui\\nil",
+    "d'Espagne",
+    "Quartier Latin",
+    "Jacques.\\nA"
+  ],
+  "flair_80": [
+    "Bretagne",
+    "d'Espagne",
+    "Quartier",
+    "Quartier"
+  ],
+  "camenBert_ner_81": [],
+  "sm_81": [
+    "courant\\ndans",
+    "principal:\\nChez",
+    "pale;\\nil",
+    "battait\\nbien fort",
+    "attendait\\nMI",
+    "principal,\\nen"
+  ],
+  "lg_81": [
+    "tournai"
+  ],
+  "flair_81": [],
+  "camenBert_ner_82": [],
+  "sm_82": [
+    "nnet\\nde",
+    "parole.\\n---",
+    "femme\\nde",
+    "Sarlande.\\nA"
+  ],
+  "lg_82": [],
+  "flair_82": [],
+  "camenBert_ner_83": [],
+  "sm_83": [
+    "cantique\\nd'",
+    "cette\\npersonne",
+    "Chose.\\nQuand"
+  ],
+  "lg_83": [
+    "dossier\\ntranquillement.\\n- Regardezl",
+    "repondre",
+    "faire\\nune",
+    "Chose.\\nQuand",
+    "scandale,\\non",
+    "mrs\\nlarmes eclaterent"
+  ],
+  "flair_83": [],
+  "camenBert_ner_84": [],
+  "sm_84": [
+    "quand\\nil",
+    "ca",
+    "voulez",
+    "\u00e9criai-je.\\nRoger"
+  ],
+  "lg_84": [],
+  "flair_84": [],
+  "camenBert_ner_85": [],
+  "sm_85": [
+    "si\\njamais",
+    "et\\nje",
+    "etais",
+    "singulierement\\ncompromis"
+  ],
+  "lg_85": [
+    "si\\njamais",
+    "etais",
+    "CHOSE\\nLa"
+  ],
+  "flair_85": [
+    "Cette"
+  ],
+  "camenBert_ner_86": [
+    "Paris",
+    "Paris",
+    "cafe Barbetten",
+    "cafe",
+    "Prairie"
+  ],
+  "sm_86": [
+    "je\\ndevais",
+    "Paris",
+    "etude\\npour",
+    "mine\\nrejouie",
+    "alle\\nh la Prairie",
+    "Prairie,\\nh",
+    "moins\\nd'"
+  ],
+  "lg_86": [
+    "ailleurs,\\nha Paris",
+    "je\\ndevais",
+    "Paris",
+    "cafe Barbetten",
+    "Prairie,\\nh",
+    "Sarlande",
+    "la Prairie",
+    "moins\\nd'"
+  ],
+  "flair_86": [
+    "Paris",
+    "Paris",
+    "Prairie",
+    "FER",
+    "Sarlande",
+    "Prairie"
+  ],
+  "camenBert_ner_87": [
+    "Prairie",
+    "Paris",
+    "tte",
+    "CHOS",
+    "Prairie",
+    "Es-\\nperon",
+    "Sarlande"
+  ],
+  "sm_87": [
+    "trace\\nde",
+    "Prairie",
+    "maitre\\nd'",
+    "Paris",
+    "Barbette",
+    "la Prairie",
+    "rires\\net",
+    "Grand Dieul",
+    "grande\\nhaie",
+    "balayures\\nsur"
+  ],
+  "lg_87": [
+    "la Prairie",
+    "Paris",
+    "la Prairie",
+    "balayures\\nsur"
+  ],
+  "flair_87": [
+    "la",
+    "Paris",
+    "Prairie",
+    "Sarlande"
+  ],
+  "camenBert_ner_88": [
+    "L'ANNEAU DE FER"
+  ],
+  "sm_88": [
+    "grandes\\nles",
+    "allais\\napprendre",
+    "table\\npeinte",
+    "transports\\nde"
+  ],
+  "lg_88": [
+    "table\\npeinte"
+  ],
+  "flair_88": [
+    "O"
+  ],
+  "camenBert_ner_89": [],
+  "sm_89": [
+    "Eyssette",
+    "grande\\nscenel n\\nL\u00e0-dessus",
+    "sortirez\\npasl",
+    "tout\\n1'auditoire",
+    "toute\\nmesaventure",
+    "morte,\\n",
+    "la\\ntonnelle"
+  ],
+  "lg_89": [
+    "Eyssette",
+    "n\\nL\u00e0-dessus",
+    "miserablel",
+    "CHOSE\\nIci"
+  ],
+  "flair_89": [],
+  "camenBert_ner_90": [
+    "Sarlande",
+    "Sarlande",
+    "Sarlande"
+  ],
+  "sm_90": [
+    "aspect\\nde",
+    "facons\\nde",
+    "trouver\\nderriere",
+    "aurait\\nmeme",
+    "Cecilia",
+    "tomber\\ndans",
+    "Sur-le-champ",
+    "train\\nd'"
+  ],
+  "lg_90": [
+    "tomber\\ndans",
+    "Sarlande.\\nSi",
+    "la\\nrecreation",
+    "train\\nd'"
+  ],
+  "flair_90": [
+    "Oiu",
+    "Sarlande",
+    "FER"
+  ],
+  "camenBert_ner_91": [
+    "rue Bonaparte",
+    "Paris"
+  ],
+  "sm_91": [
+    "Paris.\\nPardonne",
+    "Vois-tul acques",
+    "Chose",
+    "sens\\nque",
+    "suite\\nune",
+    "frere\\nJacques",
+    "suis94\\nLE"
+  ],
+  "lg_91": [
+    "Daniel.n\\nCette",
+    "suite\\nune",
+    "concue:\\nMonsieur",
+    "CHOSE\\ntue"
+  ],
+  "flair_91": [
+    "Paris."
+  ],
+  "camenBert_ner_92": [],
+  "sm_92": [
+    "Germane",
+    "basse\\nle",
+    "Chose",
+    "pas;\\nmais",
+    "Chose\\nenvoie",
+    "froide\\net",
+    "anneau,\\nle",
+    "gros\\nanneau"
+  ],
+  "lg_92": [
+    "abbe Germane",
+    "dortoir.\\nLes",
+    "Chose\\nenvoie"
+  ],
+  "flair_92": [
+    "ETTE.n"
+  ],
+  "camenBert_ner_93": [],
+  "sm_93": [
+    "Germane",
+    "culotte\\nouvrit",
+    "brlantes\\nqui",
+    "abbe Germane",
+    "tueras lha-haut:\\nil"
+  ],
+  "lg_93": [
+    "abbe Germane",
+    "abbe Germane"
+  ],
+  "flair_93": [],
+  "camenBert_ner_94": [],
+  "sm_94": [
+    "Chose",
+    "abbe Germane",
+    "brille\\ndans",
+    "mouche.\\nLe",
+    "Chose",
+    "agite,\\nil",
+    "bete\\nde",
+    "bienl",
+    "Chose",
+    "Chose"
+  ],
+  "lg_94": [
+    "abbe Germane",
+    "cheminee",
+    "ventrebleul",
+    "De\\ntemps",
+    "sa\\nelme"
+  ],
+  "flair_94": [
+    "A"
+  ],
+  "camenBert_ner_95": [],
+  "sm_95": [
+    "frappait\\nsur",
+    "depeche-toi;\\npersonne",
+    "remercier\\nmais",
+    "grands\\nouverte",
+    "tete",
+    "\\n",
+    "\\n",
+    "l-\\n-.\\n=e==---L'",
+    "Barbette",
+    "voici\\npour",
+    "cette Bastille",
+    "Paris"
+  ],
+  "lg_95": [
+    "Allonsl",
+    "depeche-toi;\\npersonne",
+    "c6t\\npour",
+    "Bastille",
+    "Paris"
+  ],
+  "flair_95": [
+    "Paris"
+  ],
+  "camenBert_ner_96": [
+    "Paris",
+    "Germane"
+  ],
+  "sm_96": [
+    "hate\\nses livres",
+    "Paris",
+    "chambre;\\nje",
+    "table,\\nle",
+    "reluisait,\\net"
+  ],
+  "lg_96": [
+    "Paris"
+  ],
+  "flair_96": [
+    "Paris"
+  ],
+  "camenBert_ner_97": [],
+  "sm_97": [
+    "appelait:\\n-",
+    "Barbette",
+    "Barbette",
+    "gorge-\\n-",
+    "abbe Germane",
+    "leur\\ncompter",
+    "joyeux\\nd'",
+    "amiti\u00e9:\\n- Vraiment",
+    "quel\\ndommagel"
+  ],
+  "lg_97": [
+    "Est",
+    "abbe Germane",
+    "deux.\\nCe"
+  ],
+  "flair_97": [],
+  "camenBert_ner_98": [],
+  "sm_98": [
+    "cafe\\nBarbette",
+    "pompons\\ndes",
+    "glaces\\nmultipliaient",
+    "humilie",
+    "voyant\\nflotter",
+    "homme\\nporte",
+    "venait\\nvers",
+    "miserable\\ndut"
+  ],
+  "lg_98": [],
+  "flair_98": [],
+  "camenBert_ner_99": [],
+  "sm_99": [
+    "poches\\nd'",
+    "dans\\nles",
+    "Germane",
+    "delicesl\\nles",
+    "faisait\\ndoucement fretiller"
+  ],
+  "lg_99": [
+    "Nous\\nmontames",
+    "abbe Germane",
+    "chers\\nyeux noirsl",
+    "or\\nLE",
+    "CHOSE\\nd'"
+  ],
+  "flair_99": [
+    "O",
+    "A"
+  ],
+  "camenBert_ner_100": [
+    "place d'Armes"
+  ],
+  "sm_100": [
+    "Ohl mon Dieuln-",
+    "voulais\\npas",
+    "Barbettel",
+    "Sonne",
+    "Paris",
+    "Eyssette"
+  ],
+  "lg_100": [
+    "place d'Armes",
+    "Boucoyran",
+    "Paris",
+    "Eyssette",
+    "Quartier-\\nAction",
+    "BAPTISTE\\nUn"
+  ],
+  "flair_100": [
+    "A",
+    "place",
+    "Paris",
+    "Quartier"
+  ],
+  "camenBert_ner_101": [],
+  "sm_101": [
+    "MP",
+    "matin\\nau",
+    "Eyssette\\nn'",
+    "Eyssette",
+    "Ahl",
+    "Eyssette"
+  ],
+  "lg_101": [
+    "Depuis\\nquelque",
+    "Eyssette",
+    "Eyssette"
+  ],
+  "flair_101": [],
+  "camenBert_ner_102": [
+    "Paris",
+    "Paris"
+  ],
+  "sm_102": [
+    "Paris rejoindre\\nmon",
+    "Eyssette",
+    "tante\\nBaptiste",
+    "Paris",
+    "La\\npauvre",
+    "BAPTISTE\\nrose\\npeut"
+  ],
+  "lg_102": [
+    "son\\nassiette",
+    "Paris",
+    "Paris"
+  ],
+  "flair_102": [
+    "Paris",
+    "Paris"
+  ],
+  "camenBert_ner_103": [
+    "Afrique\\ncentrale",
+    "Paris"
+  ],
+  "sm_103": [
+    "coin\\nde",
+    "C\\n2-\\n\\n---.\\n-C\\n--",
+    "A-\\n",
+    "CAOUTCHOUCS\\nil\\n",
+    "Paris",
+    "wagon\\nde",
+    "chauves\\ndes",
+    "fenetre,\\npour"
+  ],
+  "lg_103": [
+    "C\\n2-\\n\\n---.\\n-C\\n--",
+    "I\\n::\\n-\\nE\\nL\\n",
+    "Paris",
+    "wagon\\nde troisieme"
+  ],
+  "flair_103": [
+    "1'Afrique",
+    "Paris"
+  ],
+  "camenBert_ner_104": [
+    "Champenoise",
+    "Paris",
+    "Pas",
+    "nSarlande",
+    "Champenoise"
+  ],
+  "sm_104": [
+    "Champenoise",
+    "meme\\nplace",
+    "Paris",
+    "Pas\\ntoucher",
+    "dans\\nle wagon",
+    "caoutchoucs\\nfort",
+    "froid\\ncruel",
+    "Champenoise",
+    "toutes\\nces"
+  ],
+  "lg_104": [
+    "Champenoise",
+    "ronfla\\nsur",
+    "epaule.\\nLe",
+    "Paris",
+    "etais",
+    "Champenoise"
+  ],
+  "flair_104": [
+    "Champenoise",
+    "Paris",
+    "Champenoise",
+    "Paris.",
+    "Oi"
+  ],
+  "camenBert_ner_105": [
+    "Paris",
+    "Parisl Parisl",
+    "Paris",
+    "ir",
+    "Quartier-Latin",
+    "Paris"
+  ],
+  "sm_105": [
+    "A Paris",
+    "charbon\\nde terre",
+    "avoir\\npeur",
+    "Ahl cher enfantl\\nEt",
+    "belles\\netreintes",
+    "enverrai\\nchercher",
+    "Quartier-Latin.\\n'",
+    "Paris",
+    "hommes\\nprennent",
+    "puis\\nd'"
+  ],
+  "lg_105": [
+    "ames",
+    "crois.\\nJacques",
+    "Quartier-Latin.\\n'",
+    "Paris"
+  ],
+  "flair_105": [
+    "Paris",
+    "Paris.",
+    "Quartier-Latin.",
+    "Paris",
+    "\u00c0"
+  ],
+  "camenBert_ner_106": [
+    "Iardin des Plantes",
+    "Paris",
+    "Saint-Germain-des-Pr\u00e9s",
+    "Saint-Germain"
+  ],
+  "sm_106": [
+    "Iardin",
+    "Plantes",
+    "semblait\\nque",
+    "tais\\npas",
+    "Notre chambre\\nest",
+    "s\\nfenetre",
+    "Saint-Germain",
+    "bonheurln\\nEt",
+    "Paris"
+  ],
+  "lg_106": [
+    "PETIT CHOSE\\nconsiderable d'ours",
+    "Saint-Germain-des-Pr\u00e9s",
+    "clocher de Saint-Germain",
+    "Paris"
+  ],
+  "flair_106": [
+    "nLE",
+    "Paris",
+    "Paris"
+  ],
+  "camenBert_ner_107": [
+    "C",
+    "SAINT-NIZIER"
+  ],
+  "sm_107": [
+    "Y.\\nor\\n",
+    "\\n\\n",
+    "SAINT-NIZIER\\nDire",
+    "cachete",
+    "fait\\nplus",
+    "Mange",
+    "nous\\nne",
+    "partit\\npour la Bretagne"
+  ],
+  "lg_107": [
+    "Y.\\nor\\n",
+    "M1\\nt.\\nEl--\\n\\n:\\n:1.\\na\\n J\\ntas",
+    "sans\\nprendre",
+    "CHOSE\\nil",
+    "moment.\\nAu",
+    "la Bretagne"
+  ],
+  "flair_107": [
+    "la"
+  ],
+  "camenBert_ner_108": [
+    "rue Lanterne",
+    "Lyon"
+  ],
+  "sm_108": [
+    "ainsi\\npiece",
+    "qui\\na",
+    "Arretez",
+    "richesses\\ndans",
+    "rue Lanterne",
+    "etait\\npaye",
+    "portes\\ntres",
+    "Lyon",
+    "Annou"
+  ],
+  "lg_108": [
+    "ainsi\\npiece",
+    "piece",
+    "richesses\\ndans",
+    "rue Lanterne",
+    "Lyon",
+    "Annou"
+  ],
+  "flair_108": [
+    "rue",
+    "Lyon"
+  ],
+  "camenBert_ner_109": [
+    "Lyon",
+    "Ahl",
+    "Nord",
+    "rue Lanterne",
+    "Lyon"
+  ],
+  "sm_109": [
+    "Lyon",
+    "aurais\\nvoulu",
+    "piece",
+    "Lyon",
+    "bien\\nnoirs",
+    "Eyssette",
+    "braves\\nbetes"
+  ],
+  "lg_109": [
+    "Lyon",
+    "trou de la serrure.\\nIl",
+    "maudites\\nbetes",
+    "piece",
+    "a\\nnotre ancienne petite chambre",
+    "apergus",
+    "rue Lanterne",
+    "Lyon",
+    "intelligent\\nqu'",
+    "Eyssette"
+  ],
+  "flair_109": [
+    "Lyon",
+    "du",
+    "De",
+    "La",
+    "rue",
+    "Lyon"
+  ],
+  "camenBert_ner_110": [
+    "Lyon",
+    "Paris",
+    "Paris",
+    "faubourg Saint-Germain",
+    "Paris",
+    "Paris"
+  ],
+  "sm_110": [
+    "grande\\nid\u00e9e",
+    "Lyon",
+    "pour\\nme",
+    "la\\nfamille",
+    "Paris\\ncomme",
+    "Saint-Nizier",
+    "a\\nme",
+    "Paris",
+    "Paris",
+    "Paris"
+  ],
+  "lg_110": [
+    "Lyon",
+    "Paris\\ncomme un pierrot",
+    "Saint-Nizier",
+    "a\\nme",
+    "Paris",
+    "Paris",
+    "Paris",
+    "faubourg Saint-Germain",
+    "mes\\nlettr"
+  ],
+  "flair_110": [
+    "Lyon",
+    "Paris",
+    "Paris",
+    "A",
+    "Paris",
+    "Paris"
+  ],
+  "camenBert_ner_111": [
+    "rue de Lille",
+    "\\n",
+    "rue de Lille",
+    "-\\nN"
+  ],
+  "sm_111": [
+    "poche.\\n",
+    "rue de Lille",
+    "Saint-Nizier",
+    "seaux\\nd'",
+    "aurais\\njamais",
+    "service\\nde",
+    "cure\\nde Saint-Nizier",
+    "e",
+    "rue de Lille",
+    "SAINT-NIzIER\\nor\\ntres",
+    "solennite,\\nm'",
+    "Saint-\\nNizier",
+    "Saint-Guillaume\\navait",
+    "comme\\nil",
+    "venait\\nde",
+    "Saint-Guillaumel"
+  ],
+  "lg_111": [
+    "rue de Lille",
+    "Saint-Nizier",
+    "Saint-Nizier",
+    "rue de Lille",
+    "Saint-\\nNizier",
+    "rue Saint-Guillaume\\navait",
+    "rue Saint-Guillaumel",
+    "AllEz\\n"
+  ],
+  "flair_111": [
+    "J'allai",
+    "rue",
+    "Lille",
+    "Saint-Nizierl",
+    "rue"
+  ],
+  "camenBert_ner_112": [
+    "rue Saint-Guillaume"
+  ],
+  "sm_112": [
+    "troisieme\\njour",
+    "rue Saint-Guillaume",
+    "Saint-Nizier.n\\naIl",
+    "Saint-Nizier.\\n LE Lendemain",
+    "je\\nne",
+    "Saint-Nizier",
+    "partir\\nsans",
+    "Saint-Nizier.\\n",
+    "quelques\\ncoups"
+  ],
+  "lg_112": [
+    "rue Saint-Guillaume",
+    "perche",
+    "Du\\nplus",
+    "Saint-Nizier.\\n LE Lendemain",
+    "Saint-Nizier",
+    "Saint-Nizier.\\n",
+    "Saint-\\nNizierl\\n"
+  ],
+  "flair_112": [],
+  "camenBert_ner_113": [
+    "Paris",
+    "rue Saint-Guillaume",
+    "rue de Lille",
+    "Paris"
+  ],
+  "sm_113": [
+    "Paris",
+    "rue Saint-Guillaume,\\n-",
+    "rue de Lille",
+    "etait\\njustement",
+    "accueillant,\\nme",
+    "Saint-Nizier",
+    "Paris",
+    "SAINT-NIZIER\\ng\\nil",
+    "sOixante-dix"
+  ],
+  "lg_113": [
+    "Paris",
+    "rue Saint-Guillaume,\\n- je m'etais",
+    "porte,- je\\ntrouvai",
+    "rue de Lille",
+    "Hacqueville",
+    "accueillant,\\nme",
+    "Saint-Nizier",
+    "Paris",
+    "sOixante-dix",
+    "mes\\nmemoires"
+  ],
+  "flair_113": [
+    "Paris",
+    "rue",
+    "Paris"
+  ],
+  "camenBert_ner_114": [
+    "Perou"
+  ],
+  "sm_114": [
+    "tete\\nd'",
+    "mal.\\nMais",
+    "minute.\\n- Mais",
+    "irez",
+    "gargon",
+    "secretaire\\nvient",
+    "court,\\non",
+    "un\\ncrayon",
+    "nous\\nrelisons",
+    "Perou",
+    "memoires\\ntermines",
+    "mettez"
+  ],
+  "lg_114": [
+    "conge",
+    "Je\\ndicte",
+    "secrdtaire",
+    "Perou",
+    "Hacquevillel\\nce"
+  ],
+  "flair_114": [
+    "Les",
+    "A",
+    "Perou"
+  ],
+  "camenBert_ner_115": [
+    "Italie",
+    "passage du Saumon"
+  ],
+  "sm_115": [
+    "piece",
+    "lequel\\nest",
+    "Italie",
+    "Moustier",
+    "bonhomme\\nen",
+    "foule\\nde",
+    "Pierrotte",
+    "Pierrotte",
+    "Pierrotte",
+    "Pierrotte",
+    "Pierrotte",
+    "Saumon",
+    "aimait\\nbeaucoup",
+    "Allez"
+  ],
+  "lg_115": [
+    "piece",
+    "d'Italie",
+    "Moustier",
+    "Pierrotte",
+    "Pierrotte",
+    "Pierrotte",
+    "Saumon",
+    "aimait\\nbeaucoup Mme Eyssette",
+    "Mais\\nmaintenant",
+    "IL\\nMA",
+    "JACOUES\\nJacques"
+  ],
+  "flair_115": [],
+  "camenBert_ner_116": [
+    "Sarlande"
+  ],
+  "sm_116": [
+    "Chose",
+    "tout\\nenfin",
+    "Germane:\\n",
+    "temps\\nje",
+    "abbe Germane",
+    "qu\\nas",
+    "cote\\nde",
+    "pouvoir\\nm'",
+    "Loin",
+    "Jacques\\nd'"
+  ],
+  "lg_116": [
+    "bobeches",
+    "abbe Germane:\\n",
+    "Loin",
+    "Jacques\\nd'"
+  ],
+  "flair_116": [],
+  "camenBert_ner_117": [
+    "Saint-Germain-\\ndes-Pres",
+    "clocher de Saint-Germain",
+    "Saint-Germain"
+  ],
+  "sm_117": [
+    "sais\\nque",
+    "Hacqueville",
+    "huit\\nheures",
+    "Toi",
+    "pres\\nd'",
+    "Saint-Germain-\\ndes-Pres",
+    "Saint-Germain",
+    "Saint-Germain",
+    "comme\\ndes",
+    "embrasse\\nau"
+  ],
+  "lg_117": [
+    "Hacqueville",
+    "Saint-Germain-\\ndes-Pres",
+    "Saint-Germain",
+    "Dit"
+  ],
+  "flair_117": [
+    "nA",
+    "Saint-Germain",
+    "Saint-Germain",
+    "ACQUES",
+    "Sarlande"
+  ],
+  "camenBert_ner_118": [
+    "Sarlande",
+    "\\nSaint-Germain",
+    "Paris",
+    "Paris",
+    "Parisl",
+    "Parisien"
+  ],
+  "sm_118": [
+    "atelier\\ndu",
+    "Paris",
+    "Parisien",
+    "bouquet\\ndepartemental",
+    "Chose"
+  ],
+  "lg_118": [
+    "Iacques",
+    "tour de\\nSaint-Germain",
+    "Paris",
+    "Parisien"
+  ],
+  "flair_118": [
+    "Paris",
+    "Parisien"
+  ],
+  "camenBert_ner_119": [
+    "Paris",
+    "Saint-Germain-des-\\nPr\u00e9s",
+    "Rome"
+  ],
+  "sm_119": [
+    "Paris",
+    "printemps\\nque",
+    "Cela\\nme",
+    "avais\\npasse",
+    "boulevard\\nplante",
+    "Saint-Germain-des-\\nPr\u00e9s",
+    "revient\\nde Rome"
+  ],
+  "lg_119": [
+    "Paris",
+    "PETIT CHOSE\\nd'eil silencieux",
+    "Saint-Germain-des-\\nPr\u00e9s",
+    "Rome",
+    "theatre",
+    "clocher de Saint-Germain"
+  ],
+  "flair_119": [
+    "Paris",
+    "A",
+    "Rome"
+  ],
+  "camenBert_ner_120": [
+    "Parisien",
+    "Lyon",
+    "Paris"
+  ],
+  "sm_120": [
+    "admiration:\\n--",
+    "Parisien",
+    "vraiment\\nAu fond",
+    "bras\\navec",
+    "Lyon",
+    "bateau.\\n-",
+    "on\\nne",
+    "Paris",
+    "Sais",
+    "aimable\\nen"
+  ],
+  "lg_120": [
+    "Parisien",
+    "Lyon",
+    "on\\nne",
+    "Paris",
+    "e",
+    "Tres bienl"
+  ],
+  "flair_120": [
+    "Parisien",
+    "Lyon",
+    "Paris"
+  ],
+  "camenBert_ner_121": [
+    "ran",
+    "Boucoyran",
+    "Sarlande",
+    "Prairie"
+  ],
+  "sm_121": [
+    "piteusement\\ncomique",
+    "la\\nmalle",
+    "Boucoyran",
+    "Boucoyran",
+    "Boucoyran",
+    "je\\nne",
+    "Ohl non",
+    "la Prairie",
+    "mechants?\\n",
+    "rimes\\nme",
+    "gros\\nsoleil"
+  ],
+  "lg_121": [
+    "Boucoyran",
+    "Boucoyran",
+    "Boucoyran",
+    "la Prairie",
+    "moil",
+    "gros\\nsoleil"
+  ],
+  "flair_121": [],
+  "camenBert_ner_122": [],
+  "sm_122": [
+    "maigre\\nbaille",
+    "Magnifique",
+    "parents\\nseront",
+    "Wffa\\n0I\\nIL\\nil.-",
+    "A\\nZ1\\n\\n T\\n",
+    "\\n",
+    "N\\neT\\nA--(\\n3C-s\\n4"
+  ],
+  "lg_122": [
+    "Comedie-Francaise",
+    "faiblement.z=-\\nn\\n1\\n2\\n-.1S\\nz\\n\\n11:1.\\na",
+    "I\\nI1\\n2s\\nc-r-r"
+  ],
+  "flair_122": [],
+  "camenBert_ner_123": [
+    "pyramide d'Egypte",
+    "Palais-Mazarin",
+    "Saint-\\nGermain",
+    "rue Saint-Benoit"
+  ],
+  "sm_123": [
+    "pyramide d'Egypte",
+    "mettras\\nun",
+    "Palais-Mazarin",
+    "Merimee,\\nje",
+    "rue Saint-Benoit.\\nC'",
+    "fond\\npour",
+    "milieu\\nde",
+    "academicien\\nfume",
+    "A",
+    "A"
+  ],
+  "lg_123": [
+    "pyramide d'Egypte",
+    "Palais-Mazarin",
+    "seances.\\nPendant",
+    "rue Saint-Benoit.\\nC'",
+    "MI"
+  ],
+  "flair_123": [],
+  "camenBert_ner_124": [],
+  "sm_124": [
+    "francs\\nchez",
+    "s\\nvois",
+    "convenable.\\nMais",
+    "mal.\\nIl",
+    "aussi\\nsubstantiel",
+    "si\\ntu",
+    "depense\\nd'"
+  ],
+  "lg_124": [
+    "marquis.\\n- Ouil",
+    "cremerie",
+    "Allons"
+  ],
+  "flair_124": [
+    "Les"
+  ],
+  "camenBert_ner_125": [
+    "aLLons",
+    "rue Lanterne",
+    "rue Lanterne",
+    "Saint-Germain"
+  ],
+  "sm_125": [
+    "ministre\\ndes",
+    "Pierrotte",
+    "Pierrotte",
+    "Est-elle\\njolie",
+    "Lanterne,\\nquand",
+    "Eyssette",
+    "songe\\npas",
+    "Allons",
+    "Micou"
+  ],
+  "lg_125": [
+    "Pierrotte",
+    "Pierrotte",
+    "Tiensl",
+    "Est-elle\\njolie",
+    "Lanterne,\\nquand",
+    "MI",
+    "Eyssette",
+    "Saint-Germain",
+    "Allons",
+    "Jacques?"
+  ],
+  "flair_125": [
+    "rue"
+  ],
+  "camenBert_ner_126": [
+    "Saint-Germain-des-Pr\u00e9s",
+    "Saint-Germain"
+  ],
+  "sm_126": [
+    "E",
+    "PETIT CHOSE\\nLa",
+    "\\nCoucou-Blancl Est",
+    "quand\\nil",
+    "Saint-Germain-des-Pr\u00e9s",
+    "notre\\nancienne",
+    "je\\nme",
+    "Daniel\\nd'",
+    "Saint-Germain",
+    "etais",
+    "occupait\\ndu"
+  ],
+  "lg_126": [
+    "oreille.\\n- Coucou",
+    "Elle\\nse",
+    "\\nCoucou-Blancl Est",
+    "Saint-Germain-des-Pr\u00e9s",
+    "Daniel\\nd'",
+    "horloge de Saint-Germain",
+    "Est-ce\\nque tu ne pourrais pas m'en sonner encore quelques-unes de ces\\nheures de vaillance et de jeunesse 'etais"
+  ],
+  "flair_126": [],
+  "camenBert_ner_127": [],
+  "sm_127": [
+    "dame\\ndu",
+    "heure\\nde",
+    "vite\\net",
+    "hauteur\\nde",
+    "lentement\\ndans"
+  ],
+  "lg_127": [
+    "la\\nmaison",
+    "le cou\\nnu"
+  ],
+  "flair_127": [
+    "A",
+    "Or"
+  ],
+  "camenBert_ner_128": [
+    "\\nSaint-Germain"
+  ],
+  "sm_128": [
+    "cruche\\nsans",
+    "Mluse",
+    "comme\\ndes",
+    "un\\nrayon",
+    "lune",
+    "rue Saint-Benoit"
+  ],
+  "lg_128": [
+    "Tantot\\ndes",
+    "lune",
+    "rue Saint-Benoit"
+  ],
+  "flair_128": [
+    "ET"
+  ],
+  "camenBert_ner_129": [
+    "Luxembourg"
+  ],
+  "sm_129": [
+    "furtivement\\net",
+    "Luxembourg",
+    "maladive\\nque",
+    "revenant\\nde",
+    "voir\\ns'",
+    "etait\\ntoute",
+    "Jacques,\\nton",
+    "invention\\nde",
+    "belles\\ndents",
+    "Pierrotte",
+    "vouS"
+  ],
+  "lg_129": [
+    "Luxembourg",
+    "ces\\njolis",
+    "cremerie",
+    "m\\nmettais",
+    "Pierrotte"
+  ],
+  "flair_129": [
+    "Luxembourg"
+  ],
+  "camenBert_ner_130": [
+    "core",
+    "MIais",
+    "quartier Latin",
+    "Nanterre"
+  ],
+  "sm_130": [
+    "A",
+    "etaient\\ncouches",
+    "Muse",
+    "suite\\nau grand",
+    "Coucou-Blanc",
+    "bien\\n\u00eatre",
+    "Coucou-Blanc",
+    "grisette,\\nquoil",
+    "Coucou-Blanc",
+    "part\\nplein",
+    "Nanterre",
+    "rentrait\\ntous les soirs",
+    "abord\\ncomme",
+    "tr\u00e8s\\naigue",
+    "incomprehensibles\\nsyllabes"
+  ],
+  "lg_130": [
+    "A",
+    "Coucou-Blanc",
+    "Nanterre",
+    "mon\\noreille",
+    "abord\\ncomme"
+  ],
+  "flair_130": [
+    "A",
+    "MIusette"
+  ],
+  "camenBert_ner_131": [
+    "BLANC"
+  ],
+  "sm_131": [
+    "une;,\\n,3\\nL",
+    "r\\nla\\nS\\n-\\nLui\\nL---\\n",
+    "\\n--,.\\n\\nM\\ni-\\nI\\ny\\n\\n A\\n",
+    ".\\n",
+    "\\n\\n\\n",
+    "N\\n.--.\\nr-\\n\\n\\n:\\ng-\\nt.\\n\\n\\n-",
+    "Tout\\ncela",
+    "\\nCoucou-Blanc",
+    "vision,\\nmais",
+    "premiere\\nfois",
+    "Coucou-Blanc",
+    "Coucou-Blanc",
+    "Bernerette",
+    "comment\\nla trouves"
+  ],
+  "lg_131": [
+    "r\\nla\\nS\\n-\\nLui\\nL---\\n",
+    ",4\\n72L\\n-\\n1\\n",
+    ".\\n",
+    "AH\\n\\n'",
+    "N\\n.--.\\nr-\\n\\n\\n:\\ng-\\nt.\\n\\n\\n-",
+    "Tout\\ncela",
+    "visionl",
+    "Coucou-Blanc",
+    "Coucou-Blanc"
+  ],
+  "flair_131": [
+    "O"
+  ],
+  "camenBert_ner_132": [
+    "Cap",
+    "-\\n"
+  ],
+  "sm_132": [
+    "autre\\nsans",
+    "tolocototignan",
+    "Cap",
+    "Pierre Dupont",
+    "ou\\nil",
+    "pauvre\\ngargcon m'"
+  ],
+  "lg_132": [
+    "bouteille debouchee",
+    "PETIT CHOSE\\nl'air monotone",
+    "Cap",
+    "ou\\nil"
+  ],
+  "flair_132": [
+    "A",
+    "Cap"
+  ],
+  "camenBert_ner_133": [
+    "ld-bas"
+  ],
+  "sm_133": [
+    "trop\\nfier",
+    "Pierrotte",
+    "place\\nd'",
+    "cause\\nde",
+    "Tiensl",
+    "Jacques.\\nEt",
+    "essouffle.coUcoU-BLANC",
+    "etais",
+    "Palais-Royal"
+  ],
+  "lg_133": [
+    "lors,\\n",
+    "Est",
+    "Pierrotte",
+    "moi\\ntout essouffle.coUcoU-BLANC ET LA DAME DU",
+    "etais",
+    "Palais-Royal"
+  ],
+  "flair_133": [
+    "Palais-Royal"
+  ],
+  "camenBert_ner_134": [
+    "Saumon",
+    "Cevennes",
+    "Cevenol"
+  ],
+  "sm_134": [
+    "Lalouette",
+    "Pierrotte",
+    "Saumon",
+    "portait\\nde",
+    "frangais\\net",
+    "gloire,\\nmais",
+    "Pierrotte",
+    "bonne\\namie",
+    "Pierrotte",
+    "secours\\nde",
+    "Eyssette",
+    "Eyssette",
+    "Paris",
+    "Pierrotte"
+  ],
+  "lg_134": [
+    "Pierrotte",
+    "Saumon",
+    "gloire,\\nmais",
+    "Pierrotte",
+    "Mot",
+    "Hier-\\nrotte",
+    "Pierrotte",
+    "Eyssette",
+    "Pierrotte",
+    "Eyssette",
+    "Paris"
+  ],
+  "flair_134": [
+    "Saumon",
+    "Cevennes",
+    "Paris"
+  ],
+  "camenBert_ner_135": [
+    "Paris",
+    "Paris",
+    "nCevennes"
+  ],
+  "sm_135": [
+    "Pierrotte",
+    "Pierrotte",
+    "pleine\\ndebacle",
+    "Pierrotte",
+    "Paris",
+    "Pierrotte",
+    "Paris",
+    "Pierrotte",
+    "Lalouette",
+    "Lalouette",
+    "La bou-\\n",
+    "seilles\\nd'"
+  ],
+  "lg_135": [
+    "Pierrotte",
+    "Pierrotte",
+    "Eyssette",
+    "Pierrotte",
+    "Paris",
+    "Pierrotte",
+    "Lalouette.\\nRien",
+    "Paris",
+    "Pierrotte",
+    "La bou-\\n"
+  ],
+  "flair_135": [
+    "Paris"
+  ],
+  "camenBert_ner_136": [
+    "Paris",
+    "Montmartre",
+    "Cevenol"
+  ],
+  "sm_136": [
+    "Lalouette",
+    "preter\\nun",
+    "Pierrotte",
+    "Pierrotte",
+    "Paris",
+    "galons dont\\nles",
+    "Pierrotte",
+    "l\\nDans",
+    "Montmartre",
+    "vous\\ngeeenel",
+    "Anastagille",
+    "dire\\nAnastasie",
+    "Anastagille",
+    "Anastagille",
+    "trottoirs\\nd'",
+    "Anastagille",
+    "Pierrotte"
+  ],
+  "lg_136": [
+    "Pierrotte",
+    "Pierrotte",
+    "Paris",
+    "Pierrotte",
+    "Montmartre",
+    "Cevenol",
+    "Anastagille",
+    "Anastagille",
+    "Anastagille",
+    "Anastagille",
+    "Pierrotte"
+  ],
+  "flair_136": [
+    "Paris",
+    "Montmartre",
+    "Montmartre"
+  ],
+  "camenBert_ner_137": [
+    "Parisiens",
+    "Cevenol",
+    "Paris"
+  ],
+  "sm_137": [
+    "ainsi\\nque",
+    "Pierrotte",
+    "Pierrotte",
+    "Parisiens",
+    "Pierrotte",
+    "Cevenol\\ns'",
+    "Anastagille",
+    "vieux\\nLalouette",
+    "Pierrotte",
+    "Pierrotte",
+    "Paris",
+    "classe\\nd'",
+    "mois\\nil",
+    "interesse\\ndans",
+    "Lalouette",
+    "Lalouette",
+    "Pierrotte"
+  ],
+  "lg_137": [
+    "Pierrotte",
+    "Pierrotte",
+    "Pierrotte",
+    "Parisiens",
+    "Pierrotte",
+    "Cevenol\\ns'",
+    "proposerent",
+    "Pierrotte",
+    "Pierrotte",
+    "Paris",
+    "frangais",
+    "ceda",
+    "Pierrotte"
+  ],
+  "flair_137": [
+    "Parisiens",
+    "Paris"
+  ],
+  "camenBert_ner_138": [
+    "Cevenol",
+    "Saumon",
+    "Parisiens",
+    "Cevenol"
+  ],
+  "sm_138": [
+    "Lalouette",
+    "Pierrotte",
+    "Saumon",
+    "Pierrotte",
+    "Et\\ny\\n N\\n\\n,\\n \\n",
+    "c.\\n",
+    "Languedoc",
+    "Pierrotte",
+    "Mlle",
+    "Boulons"
+  ],
+  "lg_138": [
+    "Pierrotte",
+    "Saumon",
+    "Pierrotte",
+    "Et\\ny\\n N\\n\\n,\\n",
+    "A\\n\\ns---\\n1\\net\\n).-\\nA\\n",
+    "Languedoc",
+    "frangcais",
+    "Pierrotte"
+  ],
+  "flair_138": [
+    "Parisiens",
+    "Languedoc"
+  ],
+  "camenBert_ner_139": [],
+  "sm_139": [
+    "lampe\\nen",
+    "Pierrotte",
+    "coup\\nPierrotte",
+    "Pierrotte",
+    "yeux\\npleins",
+    "larmcs",
+    "serions\\nen"
+  ],
+  "lg_139": [
+    "Bonjour,\\nPierrotte\\nPierrotte",
+    "Pierrotte",
+    "Pierrotte",
+    "1'ceil",
+    "Pierrotte",
+    "Mademoi-\\nselle",
+    "larmcs"
+  ],
+  "flair_139": [],
+  "camenBert_ner_140": [
+    "Boheme",
+    "Pela-",
+    "n",
+    "palais de la fee Porcelaine"
+  ],
+  "sm_140": [
+    "grondera\\nd'",
+    "vous\\nrejoins",
+    "Pierrotte"
+  ],
+  "lg_140": [
+    "grondera\\nd'",
+    "Boheme,\\nles",
+    "Pierrotte"
+  ],
+  "flair_140": [],
+  "camenBert_ner_141": [
+    "Cevenole"
+  ],
+  "sm_141": [
+    "meme\\nmaison",
+    "Veuve Tribou",
+    "Pierrotte",
+    "Je\\nsonnai",
+    "Cevenole",
+    "vieilles\\ndames",
+    "Tribou",
+    "un\\nc6te de",
+    "doigts\\nsur",
+    "cheveu\\nfin",
+    "Pierrotte",
+    "yeux\\nnoirs"
+  ],
+  "lg_141": [
+    "Pierrotte",
+    "Je\\nsonnai",
+    "Cevenole",
+    "Pierrotte",
+    "Saumon.\\nElle F\u00fbt"
+  ],
+  "flair_141": [],
+  "camenBert_ner_142": [],
+  "sm_142": [
+    "noirs\\nde",
+    "avais\\nenvie",
+    "Beaux yeux noirs",
+    "yeux\\nnoirs",
+    "personnage\\nauquel",
+    "Lalouette",
+    "cote\\ndes yeux",
+    "Pierrotte",
+    "bras.\\nJacques",
+    "ca"
+  ],
+  "lg_142": [
+    "avais\\nenvie",
+    "vOus",
+    "bleme,\\navec",
+    "tournai",
+    "Pierrotte",
+    "bras.\\nJacques"
+  ],
+  "flair_142": [
+    "A"
+  ],
+  "camenBert_ner_143": [
+    "la Vallee"
+  ],
+  "sm_143": [
+    "pable\\nd'",
+    "flute\\nne",
+    "Comment\\nle trouves",
+    "Pierrotte",
+    "Mademoiselle",
+    "leur\\npartie",
+    "plus\\ngrand",
+    "Vallee",
+    "Pierrotte",
+    "\u00e9lan\u00e7a,\\nla",
+    "clair\\nempoisonne",
+    "sourcilla\\npas",
+    "Reveries de Rosellen",
+    "Pierrotte",
+    "mesure\\navec",
+    "Pierrotte"
+  ],
+  "lg_143": [
+    "Comment\\nle",
+    "Pierrotte",
+    "Mademoiselle",
+    "plus\\ngrand sang-froid",
+    "Pierrotte",
+    "caraibe",
+    "sourcilla\\npas",
+    "Reveries",
+    "Rosellen",
+    "Pierrotte",
+    "mesure\\navec",
+    "Rosellen",
+    "Pierrotte"
+  ],
+  "flair_143": [
+    "Vallee"
+  ],
+  "camenBert_ner_144": [],
+  "sm_144": [
+    "yeux\\nnoirs",
+    "sympathiques,\\npuis",
+    "Mle Pierrotte\\ndeux etres tres distincts",
+    "maison\\nLalouette"
+  ],
+  "lg_144": [
+    "sais.\\n-",
+    "le\\npetit"
+  ],
+  "flair_144": [
+    "ILe"
+  ],
+  "camenBert_ner_145": [
+    "quartier Latin"
+  ],
+  "sm_145": [
+    "gentil.n\\n'",
+    "Latin",
+    "Coucou-Blanc",
+    "Pierrotte.\\n-",
+    "Coucou-Blanc?\\nElle",
+    "Coucou-Blanc",
+    "nous\\nfmes",
+    "Allonsl",
+    "entendre\\nJacques"
+  ],
+  "lg_145": [
+    "Coucou-Blanc",
+    "Coucou-Blanc",
+    "A\\nnos",
+    "pas.\\n-"
+  ],
+  "flair_145": [
+    "A"
+  ],
+  "camenBert_ner_146": [],
+  "sm_146": [
+    "m\\nmere Iacques",
+    "suis\\ndu sien",
+    "Lalouette",
+    "Mais\\nvoulez",
+    "Tous\\nles",
+    "allait\\nbien",
+    "Pierrotte"
+  ],
+  "lg_146": [
+    "Iacques",
+    "Mais\\nvoulez",
+    "Pierrotte"
+  ],
+  "flair_146": [],
+  "camenBert_ner_147": [
+    "Core-\\nmant"
+  ],
+  "sm_147": [
+    "tete",
+    "Saumon",
+    "escalier\\nderriere",
+    "allait\\npas"
+  ],
+  "lg_147": [
+    "Saumon"
+  ],
+  "flair_147": [],
+  "camenBert_ner_148": [
+    "Saint-Germain"
+  ],
+  "sm_148": [
+    "Pierrotte",
+    "serait\\napergu",
+    "vous\\naimer",
+    "Pierrotte",
+    "parler\\npour",
+    "Saint-Germain.\\nJacques",
+    "choses\\nen",
+    "Philistine",
+    "Saumon",
+    "ancienne\\nmaison Lalouette",
+    "Porcelaines",
+    "Cristaux\\nde"
+  ],
+  "lg_148": [
+    "Pierrotte",
+    "Pierrotte",
+    "Non,\\nn'",
+    "Saint-Germain.\\nJacques",
+    "Philistine",
+    "Saumon l'ancienne\\nmaison Lalouette",
+    "Porcelaines"
+  ],
+  "flair_148": [
+    "Saumon"
+  ],
+  "camenBert_ner_149": [
+    "nLatin",
+    "quartier Latin"
+  ],
+  "sm_149": [
+    "cette\\nflte",
+    "Pierrotte",
+    "il\\ny",
+    "Pierrotte",
+    "cheveux,\\nun",
+    "Philistine",
+    "Saint-Germain",
+    "Pierrotte"
+  ],
+  "lg_149": [
+    "Pierrotte",
+    "merite.\\nLes",
+    "ecria",
+    "Pierrotte",
+    "Philistine",
+    "clocher de Saint-Germain",
+    "Pierrotte"
+  ],
+  "flair_149": [
+    "Philistine"
+  ],
+  "camenBert_ner_150": [],
+  "sm_150": [
+    "flte\\nse",
+    "Pierrotte",
+    "Iacques",
+    "battements\\nrapides",
+    "Coucou-bBlanc\\ndevant",
+    "\u00e9taient\\npas",
+    "ne\\nse"
+  ],
+  "lg_150": [
+    "Pierrotte",
+    "Iacques",
+    "Est",
+    "Pierrotte",
+    "Ce\\nn'"
+  ],
+  "flair_150": [],
+  "camenBert_ner_151": [
+    "Sarlande"
+  ],
+  "sm_151": [
+    "attendrir,\\net",
+    "bonnement,\\nje",
+    "glissa\\njc",
+    "fois\\nde",
+    "ordinaire\\npenche"
+  ],
+  "lg_151": [
+    "bonnement,\\nje",
+    "moment,\\nje",
+    "oUi",
+    "poitrine.\\nCe"
+  ],
+  "flair_151": [],
+  "camenBert_ner_152": [],
+  "sm_152": [
+    "rose\\nou",
+    "CHOSE\\n-",
+    "suis\\nsr",
+    "etais",
+    "ames\\ncomme",
+    "meme\\nsourire",
+    "fois.\\nPeine",
+    "tout\\npleins"
+  ],
+  "lg_152": [
+    "voyait,\\nelle",
+    "etais",
+    "per-\\n",
+    "Demain-\\nenfaNt'"
+  ],
+  "flair_152": [],
+  "camenBert_ner_153": [],
+  "sm_153": [
+    "honteux,\\nmais",
+    "Pierrotte",
+    "faire\\nla",
+    "Desir-de-plaire",
+    "Sire-de-\\nplaire",
+    "salon,\\navec",
+    "service\\nquand"
+  ],
+  "lg_153": [
+    "Pierrotte",
+    "Desir-de-plaire",
+    "Pierrotte etait\\nau magasin"
+  ],
+  "flair_153": [],
+  "camenBert_ner_154": [],
+  "sm_154": [
+    "belles\\nlarmes",
+    "Pierrotte",
+    "S",
+    "ainsi\\ntoujours",
+    "Pierrotte",
+    "quittait\\njamais",
+    "ouverte,\\nles",
+    "Faust",
+    "fond\\nde",
+    "Pierrotte",
+    "milieu\\nde"
+  ],
+  "lg_154": [
+    "Pierrotte",
+    "Rosellen"
+  ],
+  "flair_154": [],
+  "camenBert_ner_155": [],
+  "sm_155": [
+    "Pierrotte",
+    "Figurez",
+    "ecrivaient\\nles",
+    "Pierrotte",
+    "\\n",
+    "f'\\ny7\\n\\n\\n1\\n\\n",
+    "C2\\n----\\nr.\\n-\\n.--=77\\n\\naI\\n,\\n\\n",
+    "vers\\nje",
+    "Saint-Germain",
+    "cahier\\nsur"
+  ],
+  "lg_155": [
+    "Pierrotte tres",
+    "C2\\n----\\nr.\\n-\\n.--=77\\n\\naI\\n,\\n\\n N\\ne\\n1\\n/-\\n",
+    "clocher de Saint-Germain"
+  ],
+  "flair_155": [],
+  "camenBert_ner_156": [],
+  "sm_156": [
+    "jeunes\\nest",
+    "rien.- A\\nmon arrivee",
+    "bordeaux",
+    "grand\\nBaghavat",
+    "poemes\\nindiens",
+    "Lakamana",
+    "Kalatala",
+    "Cudra",
+    "Cunocepa",
+    "Baghavat",
+    "Baghavat",
+    "temps\\ns'",
+    "Baghavat",
+    "poemes\\nindiens",
+    "condor,\\nun"
+  ],
+  "lg_156": [
+    "jeunes\\nest",
+    "CHOSE\\n L7sLL- L-L-L3",
+    "ecoutais",
+    "bordeaux",
+    "Lakamana",
+    "Cunocepa",
+    "poemes\\nindiens"
+  ],
+  "flair_156": [],
+  "camenBert_ner_157": [],
+  "sm_157": [
+    "barbe\\nou",
+    "Baghavat",
+    "grand Baghavat",
+    "temps,\\nil",
+    "tete",
+    "bien\\ndispose"
+  ],
+  "lg_157": [
+    "oUi"
+  ],
+  "flair_157": [],
+  "camenBert_ner_158": [],
+  "sm_158": [
+    "votre\\ncriterium",
+    "homme\\nvous",
+    "Un\\ncriteriuml",
+    "A-t-on\\n",
+    "Pierrotte",
+    "Pierrotte",
+    "c\\nn'",
+    "Camille,\\nelle",
+    "Lalouette",
+    "Pierrotte",
+    "Paris\\ndes"
+  ],
+  "lg_158": [
+    "inquietude.\\n-",
+    "A-t-on\\n jamaiS",
+    "Pierrotte",
+    "Pierrotte"
+  ],
+  "flair_158": [
+    "Paris"
+  ],
+  "camenBert_ner_159": [
+    "Grand-Orient",
+    "Caveau"
+  ],
+  "sm_159": [
+    "lire\\nmes",
+    "Pierrotte",
+    "invitations.\\nJamais",
+    "Grand-Orient",
+    "Caveau",
+    "soiree.\\nQuand",
+    "Pierrotte",
+    "Lalouette"
+  ],
+  "lg_159": [
+    "Saumon",
+    "Pierrotte",
+    "Grand-Orient",
+    "Pierrotte"
+  ],
+  "flair_159": [
+    "Grand-Orient",
+    "Caveau"
+  ],
+  "camenBert_ner_160": [],
+  "sm_160": [
+    "Comedie",
+    "Pierrotte",
+    "Je\\ndemande",
+    "Chose.\\nFigurez",
+    "Bete",
+    "PAPILLON\\nQuoi",
+    "Entends-tu\\nLE PAPILLON\\nLA BErE"
+  ],
+  "lg_160": [
+    "Pierrotte",
+    "Je\\ndemande",
+    "Chose.\\nFigurez",
+    "PAPILLON\\nQuoi",
+    "croisee,\\nQuand",
+    "CHOSE\\nLE",
+    "doux.\\nOui"
+  ],
+  "flair_160": [
+    "historiettesUNE"
+  ],
+  "camenBert_ner_161": [],
+  "sm_161": [
+    "PAPILLON\\nTais",
+    "enormel\\nLE",
+    "tete\\nMe",
+    "PAPILLON\\nEs-tu betel\\nSi",
+    "Pas-tu fermes?\\nLA BETE A",
+    "SAUMON\\nLE"
+  ],
+  "lg_161": [
+    "ON\\nCette",
+    "Bas",
+    "PAPILLON\\nParbleul",
+    "PAPILLON\\nGrimpe",
+    "PAPILLON\\nSans",
+    "air.)\\n moN cher",
+    "tete\\nMe",
+    "yeux.\\nCe Pas",
+    "yeux.\\nOui.\\nLE PAPILLON\\nCa",
+    "SAUMON\\nLE PA"
+  ],
+  "flair_161": [],
+  "camenBert_ner_162": [],
+  "sm_162": [
+    "PAPILLON",
+    "camarades\\nsortir",
+    "La Bete",
+    "routel\\nLE PAPILLON\\nTrouves-tu mon",
+    "PAPILLON",
+    "SAUMON\\nLE PAPILLON\\n-L.L-L"
+  ],
+  "lg_162": [
+    "CHOSE\\nLA",
+    "Muguet"
+  ],
+  "flair_162": [],
+  "camenBert_ner_163": [
+    "Chenilles",
+    "Chenilles"
+  ],
+  "sm_163": [
+    "gal\\nLA BETE A",
+    "Les Chenilles",
+    "Chenilles,\\n",
+    "Les Orties\\nT'",
+    "N",
+    "supposel\\nLE",
+    "Muguets"
+  ],
+  "lg_163": [
+    "l\\nOn",
+    "PAPILLON\\nTiensl tiensl",
+    "confdentielle.\\nNe",
+    "Chenilles,\\n",
+    "Les Orties\\nT'",
+    "N",
+    "P",
+    "Papillonln\\nLE PAPILLON\\nEst",
+    "Muguets.\\nC'",
+    "Muguets",
+    "chose.\\n(Bas",
+    "jamais.\\nChez",
+    "Rosel\\nLE PAPILLON"
+  ],
+  "flair_163": [],
+  "camenBert_ner_164": [
+    "e"
+  ],
+  "sm_164": [
+    "contenter\\nde",
+    "Papillon",
+    "Papillon\\ns'",
+    "l\\nse",
+    "srete",
+    "en\\nse",
+    "Papillon",
+    "Scorpion",
+    "Chauve-Souris",
+    "reins\\nd'"
+  ],
+  "lg_164": [
+    "Rose",
+    "l\\nse",
+    "Chauve-Souris"
+  ],
+  "flair_164": [],
+  "camenBert_ner_165": [
+    "cimetiere des Papillons"
+  ],
+  "sm_165": [
+    "Necro-\\nphores",
+    "elles\\ns'",
+    "Papillon",
+    "leurs\\nportes",
+    "courait\\ntrop",
+    "Scarabees",
+    "Necrophores",
+    "Hanneton",
+    "commence\\nl'",
+    "Bete"
+  ],
+  "lg_165": [
+    "Une\\nfoule curieuse",
+    "cimetiere des Papillons",
+    "cimetiere desert"
+  ],
+  "flair_165": [
+    "Papillons",
+    "LECTURE"
+  ],
+  "camenBert_ner_166": [
+    "Caveau"
+  ],
+  "sm_166": [
+    "Ferouillat",
+    "souflait\\nmoi",
+    "voixl - blanche",
+    "terne",
+    "parler\\nl'",
+    "Caveau",
+    "enlevait\\ntoute",
+    "Ferrouillat",
+    "Pierrotte",
+    "sa\\nfille",
+    "Pierrotte",
+    "Caveau",
+    "n\\nme",
+    "Mlle",
+    "Venez"
+  ],
+  "lg_166": [
+    "voixl - blanche",
+    "Caveau",
+    "Pierrotte",
+    "Pierrotte"
+  ],
+  "flair_166": [
+    "Caveau",
+    "Caveau"
+  ],
+  "camenBert_ner_167": [
+    "1'Observatoire"
+  ],
+  "sm_167": [
+    "oui-\\npais",
+    "id\u00e9e\\nd'",
+    "souriait\\nguere",
+    "triste,\\nbas",
+    "parapluie\\nneuf"
+  ],
+  "lg_167": [
+    "vous\\naime.n\\nJe",
+    "oui-\\npais",
+    "Pierrotte",
+    "ld-bas",
+    "tres polis,\\ntres genereux",
+    "VENDRAS",
+    "PORCELAINE\\n17g\\nC'"
+  ],
+  "flair_167": [],
+  "camenBert_ner_168": [
+    "Saumon"
+  ],
+  "sm_168": [
+    "Pierrotte",
+    "yeux\\nnoirs",
+    "aime\\nLa",
+    "Pierrotte",
+    "Rien",
+    "Il\\nfaut",
+    "rentrer\\nchez",
+    "elle\\nest",
+    "voulu\\nm'",
+    "moi-\\nm\u00eame",
+    "Pierrotte",
+    "as-\\nseoir"
+  ],
+  "lg_168": [
+    "Pierrotte",
+    "etais",
+    "Pierrotte",
+    "Il\\nfaut",
+    "Coucou-Blanc",
+    "rentrer\\nchez",
+    "moi-\\nm\u00eame",
+    "Saumon.\\nJ'",
+    "Pierrotte",
+    "Cenevol"
+  ],
+  "flair_168": [],
+  "camenBert_ner_169": [],
+  "sm_169": [
+    "trois\\nas",
+    "toujours\\ndans",
+    "Lalouette",
+    "met-\\ntrais",
+    "Pierrotte",
+    "ca",
+    "Pierrotte",
+    "de\\nla",
+    "L-bas"
+  ],
+  "lg_169": [
+    "vous\\nfaire",
+    "Pierrotte",
+    "Pierrotte",
+    "QU\\nvendras",
+    "oUi",
+    "Maintenant"
+  ],
+  "flair_169": [
+    "Ie"
+  ],
+  "camenBert_ner_170": [
+    "Cevenol"
+  ],
+  "sm_170": [
+    "salon\\njonquille",
+    "Pierrotte",
+    "Pierrotte",
+    "bis-\\ncuit",
+    "doute\\nil",
+    "Pierrotte",
+    "venait\\nd'"
+  ],
+  "lg_170": [
+    "salon\\njonquille",
+    "Pierrotte",
+    "Pierrotte",
+    "bis-\\ncuit colorie",
+    "Pierrotte"
+  ],
+  "flair_170": [],
+  "camenBert_ner_171": [],
+  "sm_171": [
+    "affreux\\nsalon",
+    "Pierrotte",
+    "A"
+  ],
+  "lg_171": [
+    "la\\npendule",
+    "Pierrotte",
+    "celal",
+    "Pierrotte",
+    "frais.\\nJc"
+  ],
+  "flair_171": [],
+  "camenBert_ner_172": [
+    "Alsacien",
+    "Saint-Germain"
+  ],
+  "sm_172": [
+    "PORCELAINE\\nr8\\nplus",
+    "Saint-Germain\\nQue",
+    "revesl",
+    "Coedie pastorale",
+    "revenait\\nde"
+  ],
+  "lg_172": [
+    "Alsacien",
+    "Saint-Germain\\nQue",
+    "Ditesl",
+    "Coedie"
+  ],
+  "flair_172": [
+    "Alsacien",
+    "Saint-Germain"
+  ],
+  "camenBert_ner_173": [
+    "Odeon",
+    "Paris"
+  ],
+  "sm_173": [
+    "offrir\\nma",
+    "merci\\nque",
+    "Pierrotte",
+    "etais",
+    "vers\\nmoi",
+    "galeries\\nde",
+    "Comedie",
+    "coin\\nde",
+    "moment;\\nil",
+    "etais",
+    "Paris",
+    "salle:\\n- Gr"
+  ],
+  "lg_173": [
+    "Pierrotte",
+    "etais",
+    "moment;\\nil",
+    "Mon cher",
+    "etais",
+    "Paris",
+    "hote"
+  ],
+  "flair_173": [
+    "Paris",
+    "Gr"
+  ],
+  "camenBert_ner_174": [
+    "Nice",
+    "rue Saint-Benoft",
+    "Paris",
+    "ser"
+  ],
+  "sm_174": [
+    "pars\\nce",
+    "Nice",
+    "Pierrotte",
+    "Saint-Benoft",
+    "beau\\nsonger",
+    "distraire\\nde",
+    "tout\\nseul",
+    "Paris",
+    "ardeur\\nadmirable",
+    "vetements:\\n-- Tes",
+    "vois-tu",
+    "unel\\n\\ne\\n\\nN\\n\\nA\\n\\n\\n",
+    "R\\n3-\\n------\\n",
+    "N.\\n\\n1\\n"
+  ],
+  "lg_174": [
+    "Nice",
+    "Ne\\nt'",
+    "Pierrotte",
+    "Saint-Benoft",
+    "Paris",
+    "J\\n-1.'\\nAIr\\n Et3\\nJ\\nr\\ni\\nl\\n\\n5iI\\n[Il\\n--",
+    ",\\n-A",
+    "N.\\n\\n1\\n"
+  ],
+  "flair_174": [
+    "Nice",
+    "Paris"
+  ],
+  "camenBert_ner_175": [
+    "ardin des Plantes"
+  ],
+  "sm_175": [
+    "clair\\nque",
+    "succes\\nparisiens",
+    "la-bas",
+    "Plantes",
+    "Te rappelles",
+    "nuit,\\nil",
+    "Daniel\\nd'",
+    "fait\\nbeaucoup",
+    "Lentement"
+  ],
+  "lg_175": [
+    "Eyssette",
+    "nuit,\\nil",
+    "Daniel\\nd'"
+  ],
+  "flair_175": [
+    "CELAINE"
+  ],
+  "camenBert_ner_176": [],
+  "sm_176": [
+    "femme\\nplus",
+    "Coucou-Blanc",
+    "horrible\\nnegresse",
+    "Venez"
+  ],
+  "lg_176": [
+    "Eyssette",
+    "BOREL\\nC'"
+  ],
+  "flair_176": [
+    "L'id\u00e9e"
+  ],
+  "camenBert_ner_177": [],
+  "sm_177": [
+    "Chose.\\nSeule",
+    "autre\\nmais",
+    "petite\\ncicatrice blanche du coin de la levre",
+    "tete.\\nQuand"
+  ],
+  "lg_177": [
+    "attendre\\nqu'",
+    "coin de la levre",
+    "tete.\\nQuand"
+  ],
+  "flair_177": [],
+  "camenBert_ner_178": [
+    "Theatre-Frangcais",
+    "iles Marquises",
+    "Theatre-\\nFrangais",
+    "iles Marquises"
+  ],
+  "sm_178": [
+    "bien\\nordre",
+    "Theatre-Frangcais",
+    "espagnol\\net",
+    "petit\\nChose",
+    "Theatre-\\nFrangais",
+    "Comedie",
+    "petit\\nChose",
+    "PORCELAINE\\n8g\\nbien",
+    "Pierrotte",
+    "grand\\nmonde",
+    "barbare\\n--",
+    "Pierrottel -"
+  ],
+  "lg_178": [
+    "Theatre-Frangcais",
+    "Chose.\\n- N'ayez pas peur",
+    "iles Marquises.\\nElle",
+    "kakatoes",
+    "Theatre-\\nFrangais",
+    "Eyssette",
+    "Pierrotte",
+    "un\\noeil"
+  ],
+  "flair_178": [],
+  "camenBert_ner_179": [
+    "baie de Naples"
+  ],
+  "sm_179": [
+    "vous\\nsouvenez",
+    "baie de Naples",
+    "souriait\\nd'",
+    "grand Baghavat",
+    "plus\\ngrand",
+    "CHOSE\\n- Avez",
+    "Israelite",
+    "plus\\nbeau"
+  ],
+  "lg_179": [
+    "baie de Naples",
+    "gres",
+    "Coucou-Blanc",
+    "I0o\\nLE"
+  ],
+  "flair_179": [
+    "Naples"
+  ],
+  "camenBert_ner_180": [
+    "\\nSaint-Petesbourg",
+    "rade de Rio",
+    "Naples",
+    "iles Marquises"
+  ],
+  "sm_180": [
+    "nacre,\\nretroussa",
+    "Colombine",
+    "mois\\nelle",
+    "fameuse\\nRachel",
+    "tout\\ntu",
+    "rade de Rio",
+    "Naples",
+    "Marquises",
+    "negresse,\\nc'",
+    "Coucou-Blanc",
+    "discrete"
+  ],
+  "lg_180": [
+    "Colombine",
+    "rade de",
+    "Rio",
+    "Naples",
+    "iles Marquises",
+    "Port-au-Prince",
+    "negresse,\\nc'",
+    "Coucou-Blanc",
+    "discrete"
+  ],
+  "flair_180": [
+    "Rio",
+    "Naples",
+    "Marquises",
+    "Port-au-Prince"
+  ],
+  "camenBert_ner_181": [
+    "Theatre-Frangais"
+  ],
+  "sm_181": [
+    "avec\\nelle",
+    "grand Baghavat",
+    "compare\\ntour",
+    "yeuxnoirs\\nsont",
+    "Chers",
+    "soiree\\navec",
+    "par\\nCoucou-Blanc",
+    "Theatre-Frangais,\\nentendre",
+    "Saumon"
+  ],
+  "lg_181": [
+    "mariee",
+    "AFfaire\\ncabrite pas zaffai",
+    "connaft",
+    "soiree\\navec",
+    "Theatre-Frangais,\\nentendre",
+    "Saumon"
+  ],
+  "flair_181": [
+    "Saumon"
+  ],
+  "camenBert_ner_182": [
+    "Saint-Germain"
+  ],
+  "sm_182": [
+    "Lalouette",
+    "loge\\ndecouverte",
+    "pOrte",
+    "serait\\nalle",
+    "Saint-Germain-",
+    "Carmelites - se",
+    "Nice"
+  ],
+  "lg_182": [
+    "pOrte",
+    "droles d'idees",
+    "Carmelites - se rejouissaient\\nde",
+    "Nice"
+  ],
+  "flair_182": [
+    "Nice"
+  ],
+  "camenBert_ner_183": [
+    "Chili"
+  ],
+  "sm_183": [
+    "Mlle",
+    "bien\\nmalade",
+    "Elle\\nest",
+    "Tiens",
+    "Chili",
+    "general,\\ncelles",
+    "1\\n -\\n---",
+    "\\n",
+    "I-\\nII.\\nF\\n\\ne:\\n\\'\\n",
+    "f\\n\\n11\\n.1\\n",
+    "L\\n\\n5-\\n",
+    "\\n,\\n\\n51.\\nt.\\n\\n3\\nLA\\nY",
+    "-i\\ni-\\n",
+    "MAI\\n",
+    "E\\nE\\nOr\\nA",
+    "1\\n",
+    "l\\n",
+    "\\n-.\\nL\\nWsa\\n-\\n",
+    "\\n\\n"
+  ],
+  "lg_183": [
+    "lquefois",
+    "MOi-\\nm\u00eame",
+    "Elle\\nest",
+    "Tiens",
+    "Chili",
+    "G\\n\\n-\\n\\n\\'.\\n;e\\n",
+    "A\\n1\\nA\\n.\\n \\n\\n4\\na L\\n",
+    "1\\n -\\n---",
+    "L\\n\\n5-\\n",
+    "MAI\\n",
+    "1\\n",
+    "W\\n",
+    "m-\\n",
+    "BOREL\\n93\\nje",
+    "Fiez"
+  ],
+  "flair_183": [
+    "Chili"
+  ],
+  "camenBert_ner_184": [
+    "Italie"
+  ],
+  "sm_184": [
+    "peine\\ngarde",
+    "Bientot",
+    "\\nCoucou-Blanc",
+    "silence\\npuis",
+    "tete",
+    "Chose",
+    "tremblant:\\n- Qui",
+    "l'Italie",
+    "interrompre\\nd'",
+    "Naples",
+    "Palerme",
+    "Es-tu\\nretourne",
+    "tempete"
+  ],
+  "lg_184": [
+    "Bientot",
+    "\\nCoucou-Blanc",
+    "XYI\\nLE",
+    "l'Italie",
+    "Naples",
+    "Palerme",
+    "A",
+    "fievre",
+    "tempete"
+  ],
+  "flair_184": [
+    "Naples",
+    "A"
+  ],
+  "camenBert_ner_185": [
+    "Pise"
+  ],
+  "sm_185": [
+    "Irma\\nAbord",
+    "fourbe,\\nelle",
+    "mais\\nqui",
+    "marc\\nde",
+    "tragedienne",
+    "theatre\\nn'",
+    "est\\na",
+    "rien\\nvoulu"
+  ],
+  "lg_185": [
+    "Pourquoi\\npuis",
+    "trepigner.\\nAvec",
+    "elle\\navec"
+  ],
+  "flair_185": [],
+  "camenBert_ner_186": [
+    "Cuba",
+    "Esp",
+    "Parthenon",
+    "mansarde"
+  ],
+  "sm_186": [
+    "Cuba",
+    "Pacheco",
+    "main\\nsur",
+    "a-t-elle\\nassomme",
+    "caractere\\nde ma tete",
+    "je\\ndevais"
+  ],
+  "lg_186": [
+    "Cuba",
+    "Est",
+    "Parthenon",
+    "mastoides",
+    "trouve\\nque ma tete",
+    "va\\n",
+    "Algerien",
+    "Est-ce\\nque je sais le plus souvent, je posais",
+    "je\\ndevais",
+    "kakatoes"
+  ],
+  "flair_186": [
+    "Cuba",
+    "Algerien"
+  ],
+  "camenBert_ner_187": [],
+  "sm_187": [
+    "Turc",
+    "Ami-Danln",
+    "Italien",
+    "la\\nmais",
+    "chambre\\ndu",
+    "arracher\\ndes",
+    "Rendez",
+    "Lire",
+    "Jamais"
+  ],
+  "lg_187": [
+    "Turc",
+    "Italien",
+    "tristel",
+    "la\\nmais"
+  ],
+  "flair_187": [
+    "Turc"
+  ],
+  "camenBert_ner_188": [],
+  "sm_188": [
+    "Turc",
+    "viennent\\nchez",
+    "Pacheco",
+    "mystere\\nd'",
+    "sauter\\nune"
+  ],
+  "lg_188": [
+    "Turc",
+    "Est",
+    "Est",
+    "bofte.\\n--"
+  ],
+  "flair_188": [],
+  "camenBert_ner_189": [
+    "Saumon"
+  ],
+  "sm_189": [
+    "Pierrotte",
+    "Porcelaines",
+    "Pierrotte",
+    "comprit\\ntout",
+    "rire:\\n-",
+    "perle du noble\\nfaubourg",
+    "Pierrotte",
+    "passage\\ndu Saumon",
+    "vouliez\\npas",
+    "sa\\nitalie",
+    "entendit\\nde",
+    "aussitOt",
+    "hideuse",
+    "maitresse\\net",
+    "pourquoi\\nil",
+    "la vieille\\nen",
+    "Tiens",
+    "amour\\nque"
+  ],
+  "lg_189": [
+    "Porcelaines",
+    "Pierrotte",
+    "la tragediennel\\n",
+    "Pierrotte",
+    "Saumon",
+    "sa\\nitalie",
+    "decoiffee.\\ne",
+    "PETIT CHOSE\\na--"
+  ],
+  "flair_189": [],
+  "camenBert_ner_190": [
+    "Pres-Saint-Gervais",
+    "Turc"
+  ],
+  "sm_190": [
+    "tragedienne",
+    "Pres-Saint-Gervais",
+    "Coucou",
+    "scene\\ntu",
+    "Dieu-Danl\\n MAis",
+    "diras-tu"
+  ],
+  "lg_190": [
+    "Pres-Saint-Gervais",
+    "Turc"
+  ],
+  "flair_190": [
+    "Turc"
+  ],
+  "camenBert_ner_191": [
+    "dEmain",
+    "Paris"
+  ],
+  "sm_191": [
+    "Paris",
+    "Non'",
+    "besoin\\npour",
+    "repetitions\\nd'"
+  ],
+  "lg_191": [
+    "Paris",
+    "Non'"
+  ],
+  "flair_191": [
+    "A",
+    "Paris"
+  ],
+  "camenBert_ner_192": [
+    "Gymnase",
+    "Theatre-Francais"
+  ],
+  "sm_192": [
+    "oi\\nelle",
+    "comme\\nje",
+    "Gymnase",
+    "Theatre-Francais",
+    "contentames\\nd'",
+    "somme,\\nce",
+    "trop\\nemphatique",
+    "cheville\\nfine",
+    "moins\\nbeau",
+    "Coucou-Blanc",
+    "negresse",
+    "Turc",
+    "tragedienne",
+    "feroces,\\nil"
+  ],
+  "lg_192": [
+    "PETIT CHOSE\\navez",
+    "oi\\nelle",
+    "Gymnase",
+    "Theatre-Francais",
+    "Cuba",
+    "trop\\nemphatique",
+    "Coucou-Blanc",
+    "Turc",
+    "tragedienne",
+    "feroces,\\nil"
+  ],
+  "flair_192": [
+    "Gymnase",
+    "Cuba"
+  ],
+  "camenBert_ner_193": [],
+  "sm_193": [
+    "Pourvu",
+    "monte\\npasl Vois-tu",
+    "L-LLLLLLLLLLLLLLL- L-LLLLLLLL-LLLLL-",
+    "L-L\\nDieu",
+    "souriant:\\na-",
+    "ma\\nvie"
+  ],
+  "lg_193": [
+    "car-\\nmante",
+    "souriant:\\na-"
+  ],
+  "flair_193": [
+    "Pendant",
+    "A"
+  ],
+  "camenBert_ner_194": [],
+  "sm_194": [
+    "avons\\nplus",
+    "un\\ntrou",
+    "comedien.\\n",
+    "une\\nchose:\\n-",
+    "vouloir\\ngagner",
+    "Ahl"
+  ],
+  "lg_194": [
+    "paRfois",
+    "un\\ntrou",
+    "PETIT CHOSE\\nelle"
+  ],
+  "flair_194": [],
+  "camenBert_ner_195": [
+    "Saumon"
+  ],
+  "sm_195": [
+    "seras\\ndonc",
+    "\\nmais",
+    "a\\nun",
+    "Turc",
+    "crois\\nque",
+    "Pierrotte,\\nelle",
+    "Mon cher"
+  ],
+  "lg_195": [
+    "Turc",
+    "Pierrotte,\\nelle",
+    "Saumon",
+    "M'"
+  ],
+  "flair_195": [],
+  "camenBert_ner_196": [],
+  "sm_196": [
+    "Pierrotte,\\nde",
+    "vois-tu\\nje",
+    "tra-\\nailleurS",
+    "pas.\\nElle"
+  ],
+  "lg_196": [
+    "alle\\njusqu'",
+    "gatee",
+    "Borel,\\nchez"
+  ],
+  "flair_196": [],
+  "camenBert_ner_197": [
+    "Paris",
+    "boulevard Montparnasse"
+  ],
+  "sm_197": [
+    "cette\\nfemme",
+    "Paris",
+    "temps\\nde",
+    "remords\\nplutot",
+    "et\\nje",
+    "boulevard Montparnasse",
+    "Coucou-Blanc",
+    "le\\ncarreau",
+    "Chose"
+  ],
+  "lg_197": [
+    "XII\\nTOLOCOToTIGNAN\\nMe",
+    "vecus",
+    "Paris",
+    "boulevard Montparnasse",
+    "Coucou-Blanc",
+    "CHOSE\\nTout",
+    "le\\ncarreau"
+  ],
+  "flair_197": [
+    "Paris",
+    "boulevard",
+    "nLE"
+  ],
+  "camenBert_ner_198": [],
+  "sm_198": [
+    "negresse\\nCoucou-Blanc",
+    "carreau\\nderougi",
+    "couchait\\nla",
+    "lumiere.\\nAussi",
+    "Coucou-Blanc",
+    "lune",
+    "sept\\npendues",
+    "N\\n-=.\\n--\\n---.r-\\n.:\\ng\\n\\naH\\n1\\n1\\nr\\n-"
+  ],
+  "lg_198": [
+    "negresse\\nCoucou-Blanc",
+    "carreau\\nderougi",
+    "Coucou-Blanc",
+    "sa\\npaillasse",
+    ",\\n\\nIl\\n",
+    "N\\n-=.\\n--\\n---.r-\\n.:\\ng\\n\\naH\\n1\\n1\\nr\\n-"
+  ],
+  "flair_198": [
+    "A"
+  ],
+  "camenBert_ner_199": [],
+  "sm_199": [
+    "kakatoes,\\net",
+    "amusait\\nde",
+    "gestes\\nridicules",
+    "salle\\non",
+    "Plus\\nhautl"
+  ],
+  "lg_199": [
+    "kakatoes,\\net",
+    "Coucou-Blanc",
+    "banlieue,\\nce",
+    "salle\\non",
+    "Plus\\nhautl"
+  ],
+  "flair_199": [
+    "Cette"
+  ],
+  "camenBert_ner_200": [],
+  "sm_200": [
+    "drame\\nn'",
+    "limonade Roge\\nen guise de champagne",
+    "vous\\naimons",
+    "tous\\nceux",
+    "trop\\nmal",
+    "affirmer,\\nil"
+  ],
+  "lg_200": [
+    "benl",
+    "bete,\\nque"
+  ],
+  "flair_200": [],
+  "camenBert_ner_201": [
+    "Grenelle",
+    "Mont-\\nparnasse",
+    "Sevres",
+    "Sceaux",
+    "Saint-Cloud"
+  ],
+  "sm_201": [
+    "arrache\\nde",
+    "Grenelle",
+    "Sevres",
+    "Sceaux",
+    "Saint-Cloud",
+    "omnibus\\ncafe",
+    "mettaient\\ndans",
+    "femmes,\\nde",
+    "Souwaroff",
+    "Lovelaces de barriere",
+    "preoccupes\\nde",
+    "Pierrotte"
+  ],
+  "lg_201": [
+    "Mont-\\nparnasse",
+    "Sevres",
+    "Sceaux",
+    "Saint-Cloud",
+    "costume,\\npour",
+    "Souwaroff",
+    "vous\\ndisant",
+    "Pierrotte"
+  ],
+  "flair_201": [
+    "Sevres"
+  ],
+  "camenBert_ner_202": [
+    "Paris",
+    "du Maine",
+    "Huit-a-Dix"
+  ],
+  "sm_202": [
+    "omnibus\\ncomme",
+    "tete",
+    "dshabillait\\nd'",
+    "ombre\\navec",
+    "Tolocototignan",
+    "savait\\nfaible"
+  ],
+  "lg_202": [
+    "Coucou-Blanc"
+  ],
+  "flair_202": [
+    "Paris.",
+    "A",
+    "Maine"
+  ],
+  "camenBert_ner_203": [],
+  "sm_203": [
+    "meme\\nchose",
+    "rien.\\nOn",
+    "Comedie",
+    "pauvres\\nheures",
+    "et\\non"
+  ],
+  "lg_203": [
+    "rien.\\nOn",
+    "mois\\nrue Bonaparte",
+    "theatre,\\nils",
+    "mois,\\nla",
+    "kohl"
+  ],
+  "flair_203": [
+    "Des"
+  ],
+  "camenBert_ner_204": [],
+  "sm_204": [
+    "Chose",
+    "avait\\nbeau",
+    "quel\\navais",
+    "son\\nrOse",
+    "Langlumeau"
+  ],
+  "lg_204": [
+    "Comedie",
+    "Langlumeau",
+    "decouvert,\\net",
+    "Cela\\nse"
+  ],
+  "flair_204": [],
+  "camenBert_ner_205": [
+    "theatre Montparnasse"
+  ],
+  "sm_205": [
+    "pour\\nprendre",
+    "serrure",
+    "delha\\nde",
+    "st par oi",
+    "Pierrotte",
+    "Pacheco",
+    "la\\nheure.n\\nElle",
+    "theatre Montparnasse"
+  ],
+  "lg_205": [
+    "blanchisseuses.\\nElle",
+    "Pierrotte",
+    "V",
+    "theatre Montparnasse"
+  ],
+  "flair_205": [
+    "A",
+    "theatre"
+  ],
+  "camenBert_ner_206": [
+    "Rue des Dames",
+    "nBatignolleslo",
+    "Paris",
+    "Palerme"
+  ],
+  "sm_206": [
+    "dorures\\neteintes",
+    "Paris",
+    "Pierrotte -",
+    "Daniel.\\nEn"
+  ],
+  "lg_206": [
+    "Mon-\\nsieur",
+    "on\\nne",
+    "yeux.\\n",
+    "Paris",
+    "Palerme,\\noi",
+    "Pierrotte - qui",
+    "Daniel.\\nEn"
+  ],
+  "flair_206": [
+    "Paris",
+    "Palerme"
+  ],
+  "camenBert_ner_207": [
+    "Paris",
+    "Bonaparte"
+  ],
+  "sm_207": [
+    "Avez",
+    "Allez",
+    "meme.\\n1---\\nII'.",
+    "N3\\nr\\n1 \\n \\n",
+    "n\\nEn arrivant",
+    "Paris",
+    "la-\\nhaut",
+    "il\\ncourt",
+    "cinquieme\\net",
+    "sait\\nmoi",
+    "Paris",
+    "negresse\\nCoucou-Blanc",
+    "parler\\nd'",
+    "voyage,\\nil",
+    "Comedie"
+  ],
+  "lg_207": [
+    "Est",
+    "Allez",
+    "I\\nrg\\n.\\n1\\nr--\\ni",
+    "\\n1\\n\\nD.\\nc-l\\n",
+    "N3\\nr\\n1",
+    "Ci\\n\\n\\n",
+    "Paris",
+    "rue Bonaparte",
+    "Paris",
+    "negresse\\nCoucou-Blanc",
+    "voyage,\\nil"
+  ],
+  "flair_207": [
+    "Paris",
+    "Paris"
+  ],
+  "camenBert_ner_208": [
+    "Alsace",
+    "Alsacien"
+  ],
+  "sm_208": [
+    "Alsace.\\n-",
+    "Regardez",
+    "elle\\nest",
+    "tourbillonnait\\ndans"
+  ],
+  "lg_208": [
+    "Comeidie"
+  ],
+  "flair_208": [
+    "A",
+    "A",
+    "Alsacien",
+    "Les"
+  ],
+  "camenBert_ner_209": [
+    "Chinois",
+    "Boheme"
+  ],
+  "sm_209": [
+    "frere\\nenvers",
+    "Pierrotte",
+    "Lalouette",
+    "abord\\nil",
+    "la grosse face\\nse",
+    "Pierrotte",
+    "Chinois",
+    "Boheme",
+    "Les soupieres\\nrebondies",
+    "arri\u00e8re-boutique la meme\\nflte",
+    "Pierrotte",
+    "Pierrotte"
+  ],
+  "lg_209": [
+    "Pierrotte",
+    "Pierrotte",
+    "Chinois",
+    "Pierrotte",
+    "Pierrotte"
+  ],
+  "flair_209": [
+    "Chinois",
+    "Les"
+  ],
+  "camenBert_ner_210": [
+    "Cevenol",
+    "Cevenol",
+    "Alsacien"
+  ],
+  "sm_210": [
+    "Prenez\\ndans",
+    "Pierrotte",
+    "un\\nde",
+    "Ce\\npere",
+    "Cherchons",
+    "seche\\net",
+    "prendre\\nun"
+  ],
+  "lg_210": [
+    "Prenez\\ndans",
+    "levres,\\n maiS",
+    "Ce\\npere",
+    "MAis\\nil",
+    "Pierrotte"
+  ],
+  "flair_210": [],
+  "camenBert_ner_211": [
+    "Saint-Germain"
+  ],
+  "sm_211": [
+    "Saint-Germain",
+    "la\\nchambre",
+    "quand\\nmeme",
+    "La Providence",
+    "service\\nde",
+    "h Montparnasse",
+    "tant\\nd'"
+  ],
+  "lg_211": [
+    "Saint-Germain",
+    "Providence"
+  ],
+  "flair_211": [
+    "nLB",
+    "Cette",
+    "Montparnasse"
+  ],
+  "camenBert_ner_212": [
+    "tour de Saint-Germain",
+    "hotel Pilois",
+    "rue des Dames",
+    "Bati-\\ngnolles",
+    "hotel Pilois",
+    "Marsala",
+    "De L",
+    "h\u00f4tel",
+    "Batignolles"
+  ],
+  "sm_212": [
+    "dernier\\nadieu",
+    "Saint-Germain",
+    "Pilois",
+    "rue des Dames",
+    "Bati-\\ngnolles.\\nCet hotel",
+    "Pilois",
+    "bonne\\nvie",
+    "Vatel de la\\n",
+    "Marsala.\\nCette",
+    "verdure\\ndes",
+    "Eyssette"
+  ],
+  "lg_212": [
+    "tour de Saint-Germain",
+    "ENLvEMENT\\nor\\nrestat",
+    "Pilois",
+    "rue des Dames",
+    "Bati-\\ngnolles.\\nCet hotel",
+    "hotel Pilois",
+    "bonne\\nvie",
+    "grand:\\ntrois",
+    "egayer"
+  ],
+  "flair_212": [
+    "Pas",
+    "Pilois",
+    "rue",
+    "Bati",
+    "Pilois",
+    "Batignolles"
+  ],
+  "camenBert_ner_213": [
+    "Mont-\\nparnasse",
+    "CHOSE",
+    "Montparnasse"
+  ],
+  "sm_213": [
+    "preparer\\ndans",
+    "bout\\ndes oreilles",
+    "deux\\ncouverts",
+    "monsieur\\nPilois",
+    "aurais",
+    "Alsace"
+  ],
+  "lg_213": [
+    "dejeuna",
+    "preparer\\ndans",
+    "Mont-\\nparnasse",
+    "CHOSE\\nMontparnasse",
+    "Alsace",
+    "theatre Montparnasse",
+    "MArie-anne"
+  ],
+  "flair_213": [
+    "Pilois",
+    "Pilois",
+    "Mont",
+    "l'Alsace",
+    "Montparnasse"
+  ],
+  "camenBert_ner_214": [
+    "Luxembourg",
+    "ttl",
+    "l",
+    "Italiens",
+    "Paris"
+  ],
+  "sm_214": [
+    "Guigne",
+    "Pruneaux",
+    "piece;\\nje",
+    "Luxembourg",
+    "Ohel",
+    "Pilouittl",
+    "Mee Irma\\nAbord",
+    "Paris",
+    "nous\\nentrames",
+    "chambre de l'hotel Pilois"
+  ],
+  "lg_214": [
+    "Pruneaux",
+    "piece;\\nje",
+    "Luxembourg",
+    "Pilouittl",
+    "theatre",
+    "Paris",
+    "Pilois"
+  ],
+  "flair_214": [
+    "Luxembourg",
+    "Italiens"
+  ],
+  "camenBert_ner_215": [
+    "Saint-Germain"
+  ],
+  "sm_215": [
+    "Saint-Germain",
+    "bonne\\nenvie",
+    "collee",
+    "etait\\nhideuxl",
+    "moment\\nde",
+    "moi.n\\nIl"
+  ],
+  "lg_215": [
+    "clocher de Saint-Germain"
+  ],
+  "flair_215": [],
+  "camenBert_ner_216": [],
+  "sm_216": [
+    "iciP Est",
+    "avoir\\nenleve",
+    "nous\\n\u00e9couter",
+    "sienne,\\nmon",
+    "ceur\\nde",
+    "monde,\\nle",
+    "m\\nvie",
+    "yeux\\nnoirs",
+    "gauche\\nsur"
+  ],
+  "lg_216": [
+    "ou\\npeut6ot",
+    "gatee",
+    "Jacques\\nnon"
+  ],
+  "flair_216": [],
+  "camenBert_ner_217": [],
+  "sm_217": [
+    "canape,\\nil"
+  ],
+  "lg_217": [
+    "tout\\ncela",
+    "canape,\\nil"
+  ],
+  "flair_217": [
+    "Cette"
+  ],
+  "camenBert_ner_218": [
+    "Paris"
+  ],
+  "sm_218": [
+    "Pardieul mon cher",
+    "trousseau\\nquand",
+    "Paris.\\nIl",
+    "sans\\nenfance",
+    "memes\\ntours",
+    "entreprendre\\nun"
+  ],
+  "lg_218": [
+    "trousseau\\nquand",
+    "Paris.\\nIl",
+    "fr\u00e8re,\\nje",
+    "Voilh",
+    "Mais,\\nautre",
+    "RBVE\\n\u00e2ge\\nde"
+  ],
+  "flair_218": [],
+  "camenBert_ner_219": [
+    "hotel Pilois",
+    "Montparnasse",
+    "nMIontparnasse"
+  ],
+  "sm_219": [
+    "a Montparnasse",
+    "h\u00f4tel;\\nmais",
+    "grande\\nombre",
+    "cette\\nfemme",
+    "tendresse\\nm'",
+    "Ahl tiens",
+    "mechantl e voudrais\\nt'"
+  ],
+  "lg_219": [
+    "Montparnasse",
+    "Jacques,\\nce",
+    "ESt-ce",
+    "Est-ce\\nque tu ne me rendras jamais ta confiance e te jure",
+    "tendresse\\nm'"
+  ],
+  "flair_219": [
+    "Pilois"
+  ],
+  "camenBert_ner_220": [],
+  "sm_220": [
+    "brisee,\\nj'",
+    "essayent\\nde",
+    "boivent\\navec",
+    "morale,\\nje",
+    "quand\\non",
+    "beau\\ngriffonnage"
+  ],
+  "lg_220": [
+    "morale,\\nje",
+    "baissee"
+  ],
+  "flair_220": [],
+  "camenBert_ner_221": [],
+  "sm_221": [
+    "il\\nse",
+    "k\\nJe",
+    "soleil\\nde",
+    "avaient\\ndonne",
+    "Couru-Blanc\\n",
+    "travail\\net",
+    "je\\ndisais",
+    "noirsl\\nveux-tu?",
+    "Pierrotte",
+    "pas.\\nVers"
+  ],
+  "lg_221": [
+    "Couru-Blanc",
+    "Couru-Blanc\\n",
+    "la\\nchiffraille",
+    "je\\ndisais",
+    "Parlons",
+    "Pierrotte"
+  ],
+  "flair_221": [],
+  "camenBert_ner_222": [
+    "Ouly",
+    "nMontmartre"
+  ],
+  "sm_222": [
+    "monsieur\\nde",
+    "negresse\\nCoucou-Blanc.\\nUn",
+    "toi,\\nmais"
+  ],
+  "lg_222": [
+    "a\\nMontmartre",
+    "toi,\\nmais",
+    "encore\\nune"
+  ],
+  "flair_222": [],
+  "camenBert_ner_223": [
+    "institution Ouly",
+    "Ouly",
+    "hotel Pilois"
+  ],
+  "sm_223": [
+    "petits\\nbonshommnes",
+    "etait\\nmoi",
+    "besogne",
+    "surveillant\\ngeneral",
+    "Pilois",
+    "Eyssette",
+    "Lyon"
+  ],
+  "lg_223": [
+    "Quelquefois",
+    "Pilois",
+    "Eyssette",
+    "Lyon"
+  ],
+  "flair_223": [
+    "Pilois",
+    "Lyon"
+  ],
+  "camenBert_ner_224": [
+    "Pilois",
+    "Ouly"
+  ],
+  "sm_224": [
+    "E",
+    "chapitres\\nest",
+    "grande\\nfatigue",
+    "figuier,\\net",
+    "voyais"
+  ],
+  "lg_224": [
+    "AttendonslnYV\\nLecteur",
+    "ordinaire.\\nLe",
+    "le\\njardin",
+    "figuier,\\net"
+  ],
+  "flair_224": [],
+  "camenBert_ner_225": [],
+  "sm_225": [
+    "jardin,\\nM. Pilois",
+    "hotel Piloisl",
+    "\\nDu",
+    "gants\\nd'"
+  ],
+  "lg_225": [
+    "Pilois",
+    "hotel Piloisl",
+    "couragel",
+    "gants\\nd'"
+  ],
+  "flair_225": [
+    "Pilois"
+  ],
+  "camenBert_ner_226": [
+    "Nice"
+  ],
+  "sm_226": [
+    "canape,\\nen",
+    "chose\\npareille",
+    "Nice",
+    "compris\\nque"
+  ],
+  "lg_226": [
+    "canape,\\nen",
+    "Nice",
+    "Saint-Pierre"
+  ],
+  "flair_226": [
+    "Nice"
+  ],
+  "camenBert_ner_227": [
+    "Cevenol"
+  ],
+  "sm_227": [
+    "bien\\nfort",
+    "chambre\\nsuivi",
+    "Pilois",
+    "bougies\\net",
+    "Pierrotte\\ncausaient",
+    "Cevenol",
+    "console:\\nje",
+    "Pierrotte",
+    "Vois"
+  ],
+  "lg_227": [
+    "bien\\nfort",
+    "moribond,\\net",
+    "I'",
+    "bougies\\net",
+    "Est",
+    "Pierrotte"
+  ],
+  "flair_227": [],
+  "camenBert_ner_228": [],
+  "sm_228": [
+    "Pierrotte",
+    "abbe Germane",
+    "ca",
+    "Seulement\\nil",
+    "Comprends-tu",
+    "milieu\\ndes cierges",
+    "sa\\nmais",
+    "emparai\\net",
+    "Je\\nsens",
+    "Soudain"
+  ],
+  "lg_228": [
+    "abbe Germane",
+    "Je\\nsens"
+  ],
+  "flair_228": [
+    "Soudain"
+  ],
+  "camenBert_ner_229": [
+    "a4O\\",
+    "PETIT CHOSE\\nSarlande",
+    "German",
+    "Germane",
+    "Paris"
+  ],
+  "sm_229": [
+    "tete",
+    "Jacques",
+    "qu\\nes",
+    "christ\\nd'",
+    "abbe Germane",
+    "Chose",
+    "abbe Germane",
+    "Paris",
+    "Saint-Pierre a Montmartre",
+    "trouvait\\nque",
+    "abbe Germane",
+    "Paris"
+  ],
+  "lg_229": [
+    "tete",
+    "e",
+    "christ,\\nse",
+    "abbe Germane",
+    "abbe Germane lui\\navait",
+    "Paris",
+    "abbe",
+    "Saint-Pierre",
+    "Montmartre",
+    "abbe Germane",
+    "Paris"
+  ],
+  "flair_229": [
+    "Paris",
+    "Montmartre",
+    "Paris"
+  ],
+  "camenBert_ner_230": [
+    "Midi",
+    "hotel Pilois",
+    "Paris"
+  ],
+  "sm_230": [
+    "Attends",
+    "Midi",
+    "Eyssette",
+    "Pilois",
+    "moi;\\npuis",
+    "vagues\\nsouvenirs",
+    "Paris",
+    "e",
+    "Pierrotte",
+    "ah\\nI"
+  ],
+  "lg_230": [
+    "Midi",
+    "Eyssette",
+    "Pilois",
+    "Paris",
+    "Pierrotte"
+  ],
+  "flair_230": [
+    "Paris"
+  ],
+  "camenBert_ner_231": [
+    "faubourg Montmartre",
+    "passage du Saumon"
+  ],
+  "sm_231": [
+    "Les pieds\\nen",
+    "tout\\nmouillee",
+    "Pierrotte",
+    "Pierrotte",
+    "Saumon",
+    "Lalouette\\navec",
+    "Pierrotte",
+    "Pierrotte"
+  ],
+  "lg_231": [
+    "Pierrotte",
+    "le\\nfaubourg Montmartre",
+    "Pierrotte",
+    "Saumon",
+    "Pierrotte",
+    "Pierrotte",
+    "fievre",
+    "petille"
+  ],
+  "flair_231": [
+    "Les",
+    "Montmartre",
+    "nLA"
+  ],
+  "camenBert_ner_232": [],
+  "sm_232": [
+    "Chose",
+    "Saumon",
+    "tous\\nles",
+    "vieux\\nrichard",
+    "Chose",
+    "Raspail",
+    "bienheureux\\nsaint Camphre",
+    "noire\\nassise",
+    "Lalouette",
+    "Chose",
+    "coquilles\\nmarines"
+  ],
+  "lg_232": [
+    "Saumon",
+    "Lalouettel\\nPierrotte",
+    "Camphre",
+    "Mais\\nke",
+    "CHOSE\\njusqu'",
+    "son\\n\u00e9cria"
+  ],
+  "flair_232": [],
+  "camenBert_ner_233": [
+    "hotel Pilois"
+  ],
+  "sm_233": [
+    "rapidite\\nfolle",
+    "noyer\\navec",
+    "Chose",
+    "Pilois",
+    "Pierrotte"
+  ],
+  "lg_233": [
+    "Pierrotte",
+    "lh-bas"
+  ],
+  "flair_233": [],
+  "camenBert_ner_234": [],
+  "sm_234": [
+    "Chose",
+    "Doucement",
+    "Pierrotte",
+    "Pierrotte",
+    "bout,\\nle petit Chose",
+    "questions:\\n--",
+    "sanglotant.\\n",
+    "Pierrotte",
+    "Broum-Broum,\\nun gaillard",
+    "besogne",
+    "Pierrotte"
+  ],
+  "lg_234": [
+    "REvE\\n245\\ncherche",
+    "Camillel",
+    "Pierrotte",
+    "son\\nmorceau",
+    "Camillel",
+    "Est",
+    "Pierrotte",
+    "bout,\\nle",
+    "Pierrotte",
+    "Gueril",
+    "Pierrotte"
+  ],
+  "flair_234": [],
+  "camenBert_ner_235": [],
+  "sm_235": [
+    "trompe-la-mort",
+    "CHOSE\\nPour",
+    "trompe-la-mort",
+    "Pierrotte",
+    "laissez\\npas",
+    "chagrin\\nque",
+    "Camillel",
+    "travail-\\n\u00e9taiT l-bas"
+  ],
+  "lg_235": [
+    "Pierrotte",
+    "Camillel"
+  ],
+  "flair_235": [],
+  "camenBert_ner_236": [
+    "\\nMontmartre"
+  ],
+  "sm_236": [
+    "mentir.\\nLe",
+    "Chose",
+    "sombres\\nque la Providence",
+    "aussitOt",
+    "Pierrotte",
+    "comme\\nelle",
+    "piece",
+    "Helasl",
+    "Chose",
+    "enfants\\nmorts"
+  ],
+  "lg_236": [
+    "Pierrotte",
+    "la\\nrenverse"
+  ],
+  "flair_236": [],
+  "camenBert_ner_237": [],
+  "sm_237": [
+    "Eyssette",
+    "Eyssette",
+    "bonne\\nfigure de Pierrotte",
+    "il\\nfaut",
+    "Tribou",
+    "pour\\netre"
+  ],
+  "lg_237": [
+    "reservel Est",
+    "Eyssette",
+    "Eyssette",
+    "Pierrotte"
+  ],
+  "flair_237": [],
+  "camenBert_ner_238": [
+    "rue des Lombards"
+  ],
+  "sm_238": [
+    "troisieme\\navance",
+    "economies\\nde",
+    "Quand\\nelle",
+    "temps\\nde",
+    "malade\\nsoupire",
+    "aime\\nplus",
+    "milieu\\nde",
+    "J 7'\\n1---- I\\ns\\nL-\\n)\\n'\\nelle=-- f\\n"
+  ],
+  "lg_238": [
+    "lc\\njeune",
+    "Est",
+    "Quand\\nelle",
+    "aimen",
+    "MASoN",
+    "Pierrotteln\\nPierrotte"
+  ],
+  "flair_238": [],
+  "camenBert_ner_239": [],
+  "sm_239": [
+    "monsieur\\nPierrotte",
+    "veux\\npas",
+    "plus\\nle",
+    "jamais,\\nsi",
+    "Chose"
+  ],
+  "lg_239": [
+    "Pierrotte",
+    "tranquillement:\\n- Dam",
+    "Camillel",
+    "Pierrotte"
+  ],
+  "flair_239": [],
+  "camenBert_ner_240": [],
+  "sm_240": [
+    "Chose,\\nprofonds",
+    "le pauvre\\nmalade",
+    "puis\\nquand",
+    "paroles,-\\nil",
+    "chere\\nmere Iacques",
+    "Lalouette",
+    "descendre\\nau magasin",
+    "mais\\nil"
+  ],
+  "lg_240": [
+    "Iacques",
+    "Cela\\nse",
+    "mais\\nil"
+  ],
+  "flair_240": [],
+  "camenBert_ner_241": [
+    "Ouly",
+    "Montparnasse",
+    "MIadagas-\\ncar"
+  ],
+  "sm_241": [
+    "mieux\\nvendre",
+    "Montparnasse.\\nQuand",
+    "Muse",
+    "garder\\nchez",
+    "Saumon",
+    "ancien\\npoete",
+    "Pierrotte",
+    "garder\\nau magasin",
+    "route\\npour",
+    "Rana-Valo",
+    "succes\\nqu' PArfois\\n",
+    "Chose",
+    "completement\\ngueri",
+    "honneur\\nde",
+    "Touraine",
+    "givre"
+  ],
+  "lg_241": [
+    "Montparnasse.\\nQuand",
+    "Saumon",
+    "Pierrotte",
+    "Comeidie",
+    "Rana-Valo",
+    "PArfois\\n",
+    "completement\\ngueri",
+    "Touraine"
+  ],
+  "flair_241": [
+    "Touraine"
+  ],
+  "camenBert_ner_242": [],
+  "sm_242": [
+    "grignotement\\nde",
+    "Pierrotte",
+    "Oh1 M. Pierrotte",
+    "bas,\\ndans",
+    "grand rideau\\njonquille",
+    "Chine",
+    "Pierrotte",
+    "ca"
+  ],
+  "lg_242": [
+    "de\\nperdre",
+    "besigue",
+    "Chine",
+    "Pierrotte",
+    "reveillee",
+    "Eyssette"
+  ],
+  "flair_242": [
+    "Chine"
+  ],
+  "camenBert_ner_243": [],
+  "sm_243": [
+    "grosses\\nd'"
+  ],
+  "lg_243": [],
+  "flair_243": [],
+  "camenBert_ner_244": [],
+  "sm_244": [
+    "l\u2019",
+    "Il\\nn\u2019",
+    "milieu\\nde",
+    "R\u00caVE 249\\n\\ndo\\n\\n",
+    "Pierrotte",
+    "l\u2019",
+    "l\u00e0\\ndepuis l\u2019",
+    "monsieur\\nPierrotte",
+    "veux\\npas",
+    "monsieur\\nDaniel",
+    "quitter\\nbient\u00f4t",
+    "qu\u2019",
+    "jamais,\\nsi"
+  ],
+  "lg_244": [
+    "Pierrotte",
+    "Pierrotte"
+  ],
+  "flair_244": [
+    "C\u00e9venol"
+  ],
+  "camenBert_ner_245": [],
+  "sm_245": [
+    "t\u00eate\\nfris\u00e9e du petit Chose",
+    "l\u2019",
+    "PETIT CHOSE\\n\\nPt\\n\\n \\n\\n",
+    "Tiens",
+    "Chose,\\nprofonds",
+    "le pauvre\\nmalade",
+    "malentendu\\nl\u00e0",
+    "puis\\nquand"
+  ],
+  "lg_245": [
+    "Elle\\ndoit"
+  ],
+  "flair_245": [],
+  "camenBert_ner_246": [
+    "Ouly",
+    "Montparnasse"
+  ],
+  "sm_246": [
+    "ch\u00e8re\\nm\u00e8re Jacques",
+    "Mais\\nc\u2019",
+    "l\u2019",
+    "s\\'\u00e9tonne",
+    "l\u2019",
+    "qu\u2019",
+    "descendre\\nau magasin",
+    "mais\\nil",
+    "l\u2019",
+    "mieux\\nvendre",
+    "Montparnasse.\\nQuand",
+    "Muse",
+    "garder\\nchez",
+    "Saumon",
+    "Pierrotte",
+    "garder\\nau magasin",
+    "qu\u2019"
+  ],
+  "lg_246": [
+    "Mais\\nc\u2019",
+    "Cela\\nse",
+    "mais\\nil",
+    "Montparnasse.\\nQuand",
+    "Tn\\n\\n",
+    "Saumon",
+    "Pierrotte",
+    "Com\u00e9"
+  ],
+  "flair_246": [],
+  "camenBert_ner_247": [
+    "Paris",
+    "Touraine"
+  ],
+  "sm_247": [
+    "route\\npour",
+    "l\u2019",
+    "Rana-Valo",
+    "Paris!\\n\\n",
+    "t\u2019",
+    "Chose",
+    "compl\u00e8tement\\ngu\u00e9ri",
+    "honneur\\nde",
+    "Touraine",
+    "vitres\\ncharg\u00e9es",
+    "givre",
+    "grignotement\\nde",
+    "b\u00e9sigue l\u2019",
+    "l\u2019",
+    "Pierrotte",
+    "bas,\\ndans l\u2019",
+    "grand rideau\\njonquille",
+    "l\u2019",
+    "l\u2019",
+    "Chine"
+  ],
+  "lg_247": [
+    "Rana-Valo",
+    "compl\u00e8tement\\ngu\u00e9ri",
+    "Touraine",
+    "b\u00e9sigue",
+    "Pierrotte",
+    "Chine"
+  ],
+  "flair_247": [
+    "Paris",
+    "Touraine",
+    "Chine"
+  ],
+  "camenBert_ner_248": [
+    "Ancienne Maison Lalouette"
+  ],
+  "sm_248": [
+    "Pierrotte",
+    "Tenez",
+    "ceci?\u00bb\\n\\nDeux",
+    "Pierrotte",
+    "qu\u2019",
+    "Chose",
+    "Maison"
+  ],
+  "lg_248": [
+    "Pierrotte",
+    "ceci?\u00bb\\n\\nDeux",
+    "Eyssette",
+    "Voyons!\\n\u2014"
+  ],
+  "flair_248": [],
+  "camenBert_ner_249": [
+    "Chambre",
+    "Chambre",
+    "Sattait"
+  ],
+  "sm_249": [
+    "Toivent\\naVec Se\u0301tices",
+    "Croire",
+    "Coi Ar\\nlen",
+    "Niver",
+    "piune",
+    "Se\u0301ne\u0301trait",
+    "s05",
+    "Grand",
+    "Pais",
+    "Gapittons",
+    "rS",
+    "Merveitle",
+    "Crosses",
+    "Vers Ioi",
+    "sotei\\nde"
+  ],
+  "lg_249": [
+    "Toivent\\naVec Se\u0301tices",
+    "R'avais",
+    "Niver",
+    "Se\u0301ne\u0301trait",
+    "s05",
+    "Savee",
+    "besr.\\nEGTilonnace",
+    "Naurais",
+    "ApEeS",
+    "Charce\u0301s",
+    "Lus",
+    "Merveitle",
+    "Pais",
+    "Tras",
+    "vic"
+  ],
+  "flair_249": [
+    "Since"
+  ],
+  "camenBert_ner_250": [
+    "M"
+  ],
+  "sm_250": [
+    "Secardais",
+    "Concon Ptane",
+    "manee\u0301,n\\nLE REVE\\n23\\nEe2l",
+    "mnoI",
+    "Eardant",
+    "Nateine",
+    "Iene",
+    "se\\nAisais",
+    "a\u0300",
+    "AVee",
+    "Enisssicnt",
+    "gand e ezais",
+    "na me\u0300re",
+    "Iivres",
+    "Gacnais"
+  ],
+  "lg_250": [
+    "Etre",
+    "pendute\\nAuc de Choses etle",
+    "Tronce",
+    "Paits rue digait ele",
+    "mnoI",
+    "Eardant",
+    "ane",
+    "Ms",
+    "CN",
+    "Neures",
+    "tont",
+    "tioonnant",
+    "se\\nAisais",
+    "Cmnescries",
+    "Enisssicnt",
+    "Iivres"
+  ],
+  "flair_250": [],
+  "camenBert_ner_251": [
+    "Sauvre S",
+    "AVee Ss CTinieredot",
+    "Vin",
+    "a\\nMontmartre",
+    "Chex nous"
+  ],
+  "sm_251": [
+    "umeS",
+    "lavais\\ntevne",
+    "Pari Dan",
+    "ptacc",
+    "a\u0300",
+    "Soi",
+    "Soutacet",
+    "3\\nJacques",
+    "Pais",
+    "Gctque",
+    "Catique"
+  ],
+  "lg_251": [
+    "umeS Serdns",
+    "Chambre avee",
+    "Tahn",
+    "a\\nMontmartre",
+    "Chex",
+    "Soutacet",
+    "3\\nJacques",
+    "Pais",
+    "venit",
+    "Gctque",
+    "1d-Aesous\\nDale",
+    "Rentendis"
+  ],
+  "flair_251": [],
+  "camenBert_ner_252": [
+    "Vic",
+    "Notet Pitois",
+    "Vic"
+  ],
+  "sm_252": [
+    "periss\\nNonshomres",
+    "Clacse",
+    "initiais",
+    "Sentais",
+    "Notet Pitois",
+    "Gctques",
+    "jardin Paits a Grands pas",
+    "notre Vic",
+    "Grand",
+    "Compaenie",
+    "Attendons",
+    "Attendons"
+  ],
+  "lg_252": [
+    "mnais",
+    "Gctques",
+    "Compaenie",
+    "Settes",
+    "Ct SN",
+    "Pitois"
+  ],
+  "flair_252": [],
+  "camenBert_ner_253": [
+    "ere M Ceit",
+    "At"
+  ],
+  "sm_253": [
+    "\\n1\\n\\n\\n\\n3\\nD5\\n1\\nA\\n6\\n1\\nD\\n2o\\n1\\n1\\nn85\\n\\n\\n1---\\n1\\n3\\n\\n3\\n29n -\\n7---\\n70\\nD\\n-\\n2\\nEE At",
+    "n\\nNP",
+    "ny -\\n\\nPT-V-\\nP",
+    "Pav",
+    "\\n2--\\nt e  ",
+    "\\n30-\\nDD2\\nP",
+    "\\n--\\n",
+    "d\\nC71ada",
+    "\\n\\n -----\\nt18\\na Paiton",
+    "---\\n1\\n2\\n2\\n\\n-\\n1\\n22"
+  ],
+  "lg_253": [
+    "S-\\nD\\nC\\nN\\n4\\n",
+    "Pc\\nPa",
+    "-\\n7---\\n70\\nD\\n-\\n2\\nEE At",
+    "St \u00b0 -\\n6 \\n30-\\nDD2\\nP  e",
+    "Gii 2 Vi",
+    "Alonson -\\na Poo-\\n\\n\\nC",
+    "Ve"
+  ],
+  "flair_253": [],
+  "camenBert_ner_254": [
+    "E"
+  ],
+  "sm_254": [
+    "E",
+    "\\na",
+    "Pe",
+    "Peis di  \\nC \\na--\\nDe e \\nP\\n\\nin",
+    "-\\na   -\\n\\n",
+    "\\n",
+    "P",
+    "\\n\\n",
+    "D\\n\\n\\na",
+    "Aa",
+    "Pird",
+    "\\na3\\nP",
+    "2e Pi",
+    "a\u0300",
+    "Pae f vinree",
+    "a\u0300",
+    "P"
+  ],
+  "lg_254": [
+    "E",
+    "B\\nPi",
+    "Aa \\n3\\nDt\\nD\\nD\\n\\na",
+    "Pird -20 rae",
+    "Md Hartid\\n2\\n\\nP",
+    "Pae f vinree",
+    "P"
+  ],
+  "flair_254": [],
+  "camenBert_ner_255": [
+    "gs De",
+    "C",
+    "Pori",
+    "P",
+    "To",
+    "S",
+    "V",
+    "P",
+    "Pe",
+    "P",
+    "Mts",
+    "V",
+    "ris",
+    "S Cie"
+  ],
+  "sm_255": [
+    "\\namo",
+    "P \\nC\\n30\\na",
+    "To38\\n",
+    "S",
+    "P",
+    "Mts",
+    "P  \\nD\\nM  -\\n---\\n\\nd\\n\\nCE\\n2\\nD\\nd---\\n i a\\nPCM\\na\\nd\\n",
+    "S Cie\\n",
+    "R",
+    "Ttee\\nP3\\n---\\n\\na",
+    "Pai 3",
+    "P",
+    "P",
+    "M\\n\\n\\n1\\n1\\n",
+    "rCaie r\\n",
+    "-22-\\na",
+    "S",
+    "-\\n\\n\\n n---\\n----\\nnr.\\n,2",
+    "I-a 2",
+    "an-\\na",
+    "c2\\n35\\na",
+    "A 85-de"
+  ],
+  "lg_255": [
+    "Pori",
+    "Ced\\n-",
+    "Pd\\n1832\\n\\n",
+    "P",
+    "Mts",
+    "P",
+    "S Cie\\n",
+    "R",
+    "282 Pn",
+    "C",
+    "P",
+    "Vr",
+    "M\\n\\n\\n1\\n1\\n",
+    "P",
+    "Cgine",
+    "Fr",
+    "c2\\n35\\na",
+    "Aeitge aug7-\\n--\\n-\\nP as",
+    "A 85-de Ve"
+  ],
+  "flair_255": [
+    "Pori",
+    "Ve"
+  ],
+  "camenBert_ner_256": [
+    "H",
+    "T",
+    "T",
+    "T",
+    "Ms",
+    "V",
+    "Edt",
+    "P",
+    "R",
+    "Ve",
+    "V",
+    "V",
+    "Bai",
+    "Di",
+    "M"
+  ],
+  "sm_256": [
+    "a\u0300",
+    "Cic\\n2\\n\\n\\n2\\n ----\\n----\\na",
+    "u----\\n2\\n\\nae",
+    "Edt \\na",
+    "P",
+    "rs",
+    "-\\n\\n\\n",
+    "P Aoi\\n\u0300^t 54s",
+    "-\\naa\\n\\n e  l l M",
+    "P",
+    "2",
+    "R.3",
+    "ci",
+    "P",
+    "M\\nrr",
+    "RN CSPPit EoTt",
+    "pres\\nSsentiment",
+    "Sutures",
+    "st I es un Nomme positil"
+  ],
+  "lg_256": [
+    "i",
+    "ru Cic\\n2\\n\\n\\n2\\n ----\\n----\\na",
+    "T--\\no",
+    "R,\\n\\n--\\nne",
+    "Bai",
+    "Pis Pueft",
+    "rs",
+    "M",
+    "P",
+    "Ve",
+    "domoat",
+    "R.3",
+    "B",
+    "P"
+  ],
+  "flair_256": [
+    "I"
+  ],
+  "camenBert_ner_257": [
+    "1e\\nGeardin",
+    "Sitence",
+    "Cenc"
+  ],
+  "sm_257": [
+    "RN ETain",
+    "Nomme",
+    "Sitence",
+    "Cenc",
+    "Pitois",
+    "Se\u0301cids",
+    "Crois",
+    "Ri",
+    "Se\u0301pondit",
+    "Pil"
+  ],
+  "lg_257": [
+    "RN ETain",
+    "VCMt CNE\\nINIICRn",
+    "CaSs Coire",
+    "SMTnStRTe",
+    "NOis DasSe aIeC MN",
+    "CORXt",
+    "PaIIr BIES\\nDGATAISSRit",
+    "Sanie\\nPuis",
+    "l\\'outre",
+    "Sitence",
+    "Cenc",
+    "Pitois",
+    "Se\u0301cids",
+    "Joscatrmet.\\nde",
+    "taissai pas scheres"
+  ],
+  "flair_257": [
+    "RN"
+  ],
+  "camenBert_ner_258": [],
+  "sm_258": [
+    "Pitois",
+    "me\u0301decin",
+    "Vis",
+    "Pus",
+    "Continus avee",
+    "se\u0301rieux",
+    "Ton M. Pitois",
+    "Tarmes",
+    "Paire",
+    "Pien",
+    "Pond",
+    "it Sit nne pironctle",
+    "Patis\\ntaction",
+    "Sentrai",
+    "Conte",
+    "Pait sembtibte\\naU Jacques",
+    "Jui",
+    "Nimporte"
+  ],
+  "lg_258": [
+    "jardin\\nM. Pitois",
+    "Vis tont",
+    "Soctour",
+    "Pien",
+    "phus Grand",
+    "Socteur",
+    "Mn Mover.\\nCOmme RN Mntre",
+    "Tarmes",
+    "Rcot",
+    "Pond",
+    "scicnee",
+    "Patis\\ntaction",
+    "Sentrai",
+    "Vis",
+    "Vit",
+    "tont",
+    "Pait sembtibte\\naU Jacques",
+    "mes\\nEOTRS"
+  ],
+  "flair_258": [
+    "Pus",
+    "Soctour",
+    "Grand"
+  ],
+  "camenBert_ner_259": [
+    "Nice",
+    "Saint Picrre",
+    "Tartande"
+  ],
+  "sm_259": [
+    "Cote",
+    "Visice",
+    "Jarmes.\\nJeques",
+    "Danicl",
+    "me\u0301decin",
+    "Pien",
+    "Pais",
+    "Cens",
+    "Nice",
+    "Vas Rentever",
+    "st Vaittant",
+    "Ccls Se Gatait",
+    "Saint Picrre",
+    "Voi",
+    "Sevicendrs",
+    "Notre",
+    "Tartande\\nEren",
+    "Souvrit",
+    "Creotce",
+    "Grosse",
+    "moribond\\net",
+    "mitieu de la Chambre"
+  ],
+  "lg_259": [
+    "Cote",
+    "Visice pont rasouret",
+    "Jarmes.\\nJeques",
+    "Cens",
+    "Nice",
+    "Voi",
+    "Soule",
+    "dirc",
+    "\\naVonsour",
+    "Sanies",
+    "moribond\\net ie",
+    "mitieu de la Chambre"
+  ],
+  "flair_259": [
+    "Cens",
+    "Nice"
+  ],
+  "camenBert_ner_260": [
+    "cies",
+    "Note\\nSs"
+  ],
+  "sm_260": [
+    "Erande",
+    "Pourques",
+    "Sepors",
+    "Ce\u0301venot",
+    "Nosais",
+    "mencace.\\naVois",
+    "jamais.\\naN",
+    "Sover",
+    "Sense\\nComie",
+    "Eermane",
+    "Vic",
+    "Paza"
+  ],
+  "lg_260": [
+    "Toucies\\net",
+    "Sepors",
+    "Ce\u0301venot",
+    "mencace.\\naVois",
+    "Sover",
+    "Semande",
+    "apbe\u0301",
+    "Eermane",
+    "Vic",
+    "Paza",
+    "Sint"
+  ],
+  "flair_260": [],
+  "camenBert_ner_261": [
+    "Viatique"
+  ],
+  "sm_261": [
+    "Viatique",
+    "Pai\\nEmbracce",
+    "Rgpprochant",
+    "Sais",
+    "I",
+    "Vis",
+    "Soncement",
+    "-Jacques",
+    "l Se\u0301cembre",
+    "Connaissais"
+  ],
+  "lg_261": [
+    "Viatique",
+    "mitie\\ndes",
+    "Pai\\nEmbracce",
+    "aconie",
+    "Meure",
+    "Sentement",
+    "n5\\nSesens",
+    "tetc",
+    "Se\u0301cembre",
+    "tabte",
+    "pont de la chambre",
+    "Connaissais",
+    "Poix Corte",
+    "Ravais\\nGUnne ide\u0301c",
+    "piace.\\nout"
+  ],
+  "flair_261": [],
+  "camenBert_ner_262": [
+    "Paris",
+    "Montmartre",
+    "Paris",
+    "Vic",
+    "Midi"
+  ],
+  "sm_262": [
+    "Tien",
+    "Ere\u0301re",
+    "Paris",
+    "Trave",
+    "Connes",
+    "Sestineet",
+    "Eermane",
+    "Paris",
+    "Midi",
+    "Perdre",
+    "Sepont",
+    "Sonteur",
+    "Vapues\\nSOnvenirS"
+  ],
+  "lg_262": [
+    "Apbe\u0301",
+    "Sgure mutile\u0301e",
+    "sontance",
+    "Paris",
+    "Trave pomue",
+    "Sestineet",
+    "Montmartre",
+    "Nort Iuste A",
+    "Eermane",
+    "Paris",
+    "Midi",
+    "Esovete.\\nle",
+    "Sonteur"
+  ],
+  "flair_262": [
+    "Paris"
+  ],
+  "camenBert_ner_263": [
+    "Siccles",
+    "Toue",
+    "Paris"
+  ],
+  "sm_263": [
+    "Siccles",
+    "Toue",
+    "Paris",
+    "Picrrote",
+    "IApbe\u0301\\nEermane",
+    "Gre\u0301sit",
+    "Srand",
+    "les\\n1e\\n8\\nd^t-\\n",
+    "epe\u0301e",
+    "Cutotte",
+    "porte Cel",
+    "Noire",
+    "tonsonrs",
+    "St tentcment",
+    "Srand",
+    "Les pieds\\neN SVAnt les picds",
+    "Se\u0301tache",
+    "Cris"
+  ],
+  "lg_263": [
+    "Toue",
+    "Paris",
+    "tisante",
+    "nons",
+    "Cote",
+    "Sacuette",
+    "Cchi 14",
+    "Vor\\n\\nE\\nD\\n\\n1\\n943\\n8\\n4\\n5\\n1\\nD\\n238\\nC\\n-\\n157\\n\\n\\n1\\nt8\\n4\\n\\n31\\n\\n111\\na",
+    "Cutotte",
+    "tone",
+    "Vosture",
+    "St tentcment",
+    "st tentement.\\nA",
+    "ATiveronS",
+    "Srand",
+    "Stissent",
+    "Nabiis"
+  ],
+  "flair_263": [
+    "Toue"
+  ],
+  "camenBert_ner_264": [
+    "Conboure Montmartre",
+    "Cote de Pi",
+    "S",
+    "Nacres",
+    "Et",
+    "Tourde",
+    "Entin",
+    "Contreventes Seints",
+    "Verte",
+    "Tontique",
+    "A1",
+    "ES",
+    "Cevre",
+    "Conttieres",
+    "Pr"
+  ],
+  "sm_264": [
+    "Cens",
+    "Nacres",
+    "montons",
+    "lete",
+    "QHarts mont A1\\nESretottant de Cevre",
+    "Gre\u0301oit",
+    "Conttieres",
+    "ptcntt it ptentt ott come it",
+    "Aay -\\n6\\n6\\n\\n\"\\nD\\n-\\nd-\\n1---\\n21\"\\nm 2a",
+    "olil\\n\\n-\\n\\n----\\n--\\n-\\n--\\n-\\n",
+    "-\\n----\\n----\\n1\\n\"\\n----\\nd\\n----\\n-\\n2\\nd\\n\\n-C\\n----\\n2\\n2\\n---\\n\"-\\n-\\n---\\n-\\na aus",
+    "-\\n\\n\\n\\n\\n\\n-vr\\na",
+    "Ve\u0301c",
+    "Elc",
+    "rs"
+  ],
+  "lg_264": [
+    "te\\nConboure Montmartre",
+    "Cens",
+    "Nacres",
+    "Tontique",
+    "Picrrote",
+    "Etace",
+    "Iarche",
+    "lete",
+    "QHarts mont A1\\nESretottant de Cevre",
+    "Conttieres",
+    "un\\n1\\n",
+    "2a",
+    "olil\\n\\n-\\n\\n----\\n--\\n-\\n--\\n-\\n  \\n----\\n1\\n-\\n1\\n.\\n-\\n d \\n\\n\\n\\n\"\\nd\\n2\\n\\n1\\na",
+    "Ve\u0301c",
+    "toicr Motd--\\n\\n\u0300",
+    "rr",
+    "rs"
+  ],
+  "flair_264": [
+    "Montmartre",
+    "Cens",
+    "Ve"
+  ],
+  "camenBert_ner_265": [
+    "S",
+    "V A",
+    "Panse",
+    "Ha",
+    "A",
+    "Fe",
+    "P",
+    "Edir"
+  ],
+  "sm_265": [
+    "P",
+    "N",
+    "Pa \\n\\n--\\n",
+    "\\nd\\n\\n2\\n\\n\\n\\n2\\n3\\n2\\n2\\nd\\nN\\n\\nd-\\nC-\\n\\n-\\n\\n3\\nP",
+    "i n3--\\na",
+    "C\\n1\\nPa a Mri",
+    "Pe",
+    "Mre",
+    "Er C"
+  ],
+  "lg_265": [
+    "P",
+    "N\u00b0 --\\n  1\u00b0",
+    "Pa",
+    "Pai\\n-\\n2\\n\\n\\n1\\nC\\nCEPEEEE\\n1\\n\\n1\\n2\\n1\\nC\\nPPT\\n2\\nP--\\naa d-\\n",
+    "Ga\\nD\\n\\n\\nN\\n1\\nC",
+    "C\\n1\\nPa a Mri",
+    "Er"
+  ],
+  "flair_265": [
+    "E",
+    "Fe"
+  ],
+  "camenBert_ner_266": [
+    "Deea",
+    "P",
+    "Ci",
+    "P i",
+    "Re",
+    "Pai V",
+    "P"
+  ],
+  "sm_266": [
+    "P",
+    "\\ni \\n",
+    "P",
+    "a\u0300",
+    "P",
+    "P",
+    "\\na",
+    "P",
+    "G",
+    "Patede",
+    "Sootts",
+    "PUEEEE\\na  ",
+    "-\\n\\n",
+    "P 4e Pirls on Citlbte Agd 22 \\nc",
+    "P \\n\\n-----\\n Gr da",
+    "Pas",
+    "P   \\n27\\nP \\n \\na  ",
+    "Cia e d b  n\\n  ",
+    "Cret",
+    "Zor",
+    "P",
+    "sede ma  ",
+    "P",
+    "P-P Vieir"
+  ],
+  "lg_266": [
+    "P",
+    "P",
+    "P",
+    "Ct",
+    "G",
+    "Pvci\\n\\n51",
+    "PUEEEE\\na",
+    "\\nD\\n277\\n\\n\\n",
+    "Mn",
+    "Ll,\u00b0",
+    "Panx Nil",
+    "\\nDci\\n",
+    "P",
+    "Cs",
+    "Cret",
+    "Zor d2\\ni-\\n2 S\\n2\\n\\nCmagae\u0300t",
+    "araar A deV\\n\\nD\\nP",
+    "ais\\n1\\nP\\n\\n----\\n --\\n  P s li de-",
+    "Toansnoi",
+    "Pire\u0301i e \\n1\\nd\\na",
+    "u Cao\\n\"-\\n3\\naae",
+    "A"
+  ],
+  "flair_266": [],
+  "camenBert_ner_267": [
+    "Fec",
+    "dis",
+    "Pe M",
+    "P",
+    "Di",
+    "nre",
+    "V",
+    "P",
+    "Clcrs",
+    "Lol",
+    "M",
+    "P1",
+    "Ped",
+    "na M Vs",
+    "Pc",
+    "a2 T",
+    "P"
+  ],
+  "sm_267": [
+    "-\\na P r",
+    "Clcrs rn3-",
+    "------\\n\\n Ped",
+    "a\u0300",
+    "P",
+    "d\\nat \\n----\\n---\\n5\\n",
+    "Ls",
+    "P a\\n-\\n d-V-\\nas r-",
+    "Oanirire ad",
+    "Nrn\\n1\\na",
+    "\\n--\\n",
+    "a\u0300"
+  ],
+  "lg_267": [
+    "Ga-",
+    "adi d-o-\\net",
+    "^t",
+    "Ls",
+    "P a\\n-\\n d",
+    "G-\\n",
+    "Nrn\\n1\\na",
+    "Asatosetl",
+    "Petit Choce"
+  ],
+  "flair_267": [],
+  "camenBert_ner_268": [],
+  "sm_268": [
+    "Chose",
+    "Goumon",
+    "paitle",
+    "me\u0301dceins",
+    "Voiture noire",
+    "Came de Crans\\nNe\u0301rite",
+    "bienteureut\\nGeaint Camptre",
+    "Saton",
+    "Aute enctonee",
+    "Mais\\ndlepus",
+    "Sans\\nJien",
+    "Chose",
+    "Voit Pien",
+    "Pien",
+    "Praiche",
+    "tete",
+    "Mr.\\nInorccan"
+  ],
+  "lg_268": [
+    "Goumon",
+    "Taguette",
+    "Raspait avee Fre\u0301ne\u0301sie",
+    "Eaveur du ches",
+    "Saton sonquitte",
+    "Aute",
+    "Mais\\ndlepus",
+    "tont",
+    "Sans\\nJien",
+    "PETIT CROSE\\nJeequS",
+    "MN",
+    "Aeur",
+    "gr"
+  ],
+  "flair_268": [
+    "Gace"
+  ],
+  "camenBert_ner_269": [
+    "A",
+    "M",
+    "Vic",
+    "Croisent",
+    "Chambre",
+    "Vicitles",
+    "Sevant",
+    "Senser"
+  ],
+  "sm_269": [
+    "Pond",
+    "Srcitles",
+    "- Vic tie",
+    "V",
+    "Sn",
+    "Croisent",
+    "soic",
+    "Arest",
+    "Sames",
+    "Connais",
+    "Chose",
+    "Vicitles lerrres",
+    "Norrible",
+    "Chose",
+    "Sappette",
+    "Pitois",
+    "souviene\\nde",
+    "Sonteur",
+    "Se\u0301missement",
+    "Gtace de la Glacct",
+    "a\u0300",
+    "cheminee prendre\\nNorccau de Slace",
+    "Chose"
+  ],
+  "lg_269": [
+    "Pond",
+    "Srcitles",
+    "Iechine",
+    "soic",
+    "Arest",
+    "Sames",
+    "Sevant Ji\\neaen itieu",
+    "Vicitles",
+    "Sappette",
+    "it",
+    "Sonteur",
+    "Ee\u0301missement.\\ndce Se\u0301missement",
+    "Cemmes",
+    "lenetre",
+    "Gtace",
+    "Glacct"
+  ],
+  "flair_269": [
+    "Pond"
+  ],
+  "camenBert_ner_270": [
+    "Sesogne"
+  ],
+  "sm_270": [
+    "pras tendn",
+    "Vois",
+    "bout\\nle",
+    "Paire",
+    "qucstions\\nai",
+    "Semaines",
+    "Semainres",
+    "Ma.\\nDauvre",
+    "Ne\u0301decin",
+    "atadie",
+    "Sesogne",
+    "Chose",
+    "tate\\ndle",
+    "ec\\nTArCon1d.\\nue\u0301ri Pait le ton Picrrotte",
+    "Tien",
+    "Lenetre",
+    "Se\u0301ponds"
+  ],
+  "lg_270": [
+    "pras tendn",
+    "trembte",
+    "bont",
+    "Paniel",
+    "Semainres",
+    "doans",
+    "Ne\u0301decin",
+    "atadie",
+    "chui",
+    "Sesogne",
+    "Chevet des matades",
+    "Mui reGarde",
+    "Tien eeri",
+    "Vons",
+    "Lenetre",
+    "Se\u0301ponds"
+  ],
+  "flair_270": [],
+  "camenBert_ner_271": [
+    "Ieur",
+    "Cene"
+  ],
+  "sm_271": [
+    "Seune trompe la Mort",
+    "soic",
+    "Part",
+    "es Jeut",
+    "Senset a\u0300 Pien",
+    "Picndrat",
+    "Sermant",
+    "a\u0300",
+    "Cenetre",
+    "Daniet",
+    "vous.\\nSeRVeT",
+    "Came de Crand",
+    "Leet",
+    "Noir",
+    "St Clle",
+    "Chose"
+  ],
+  "lg_271": [
+    "sentend",
+    "Ct BOI.\\nAant",
+    "soic",
+    "dirc",
+    "Senset",
+    "Pien",
+    "Cenetre",
+    "Nhenre e Pai rue",
+    "sen",
+    "Came de Crand",
+    "Noir",
+    "Cans",
+    "BCntiT.\\nLe"
+  ],
+  "flair_271": [],
+  "camenBert_ner_272": [
+    "Chambre",
+    "Painure",
+    "Chambre"
+  ],
+  "sm_272": [
+    "Providence",
+    "us",
+    "porte de la",
+    "St",
+    "Jan",
+    "CNose\\nE'Apercoit.\\nDn",
+    "8i1\\nCelle",
+    "Tont",
+    "piece",
+    "Jui",
+    "Vvois",
+    "Verrat.-Se",
+    "mise\u0300rees",
+    "Eover",
+    "voitd",
+    "Chose"
+  ],
+  "lg_272": [
+    "Providence",
+    "us",
+    "porte de la",
+    "Soncement",
+    "St MCtIRN",
+    "Picrrotle",
+    "Voita",
+    "tieu",
+    "Appetant\\na",
+    "Verrat.-Se",
+    "entants\\nNoTIS",
+    "Eover",
+    "Pout"
+  ],
+  "flair_272": [
+    "Providence"
+  ],
+  "camenBert_ner_273": [
+    "Mit"
+  ],
+  "sm_273": [
+    "Juil",
+    "Cnlant\\nIenatade",
+    "Camilte",
+    "PETIT CIIOSE\\nVent",
+    "Vie",
+    "Contraire",
+    "Sorces",
+    "Eatonctle",
+    "Seutement",
+    "i\\nLont Tien",
+    "Jui",
+    "Veure Sribou",
+    "Dour\\nEestre",
+    "Piche",
+    "Cevenot",
+    "ceven\\nStant",
+    "Aa",
+    "Lerboristerie",
+    "economies\\nde"
+  ],
+  "lg_273": [
+    "venis",
+    "Cnlant\\nIenatade",
+    "Sorces",
+    "Mit",
+    "joucur de",
+    "Nute",
+    "Aute",
+    "Dour\\nEestre",
+    "Cevenot",
+    "Pait Sepourvue",
+    "Charmes",
+    "Aa",
+    "Vapuement\\nde",
+    "Lerboristerie",
+    "rue des Combards",
+    "dome"
+  ],
+  "flair_273": [],
+  "camenBert_ner_274": [],
+  "sm_274": [
+    "Lentre",
+    "Ap",
+    "tempe\\nde",
+    "Seneant",
+    "Tien",
+    "Norreur",
+    "mitier\\nde",
+    "st Ton",
+    "pins\\nlets",
+    "a\u0300",
+    "elet",
+    "a\u0300 Pheure",
+    "Ce\u0301venot",
+    "Mit",
+    "tre\u0301s e\u0301mu",
+    "Nais OIr",
+    "Ce\u0301venot"
+  ],
+  "lg_274": [
+    "Victoie",
+    "Nouvclles.\\nEt",
+    "Setours",
+    "Seneant",
+    "Gpon de Pait",
+    "Norreur",
+    "se\\nCehouter",
+    "cenrt ecnt ete st Ton de",
+    "M",
+    "tendemain",
+    "Pheure",
+    "Ce\u0301venot",
+    "chambre\\na",
+    "ECIICTCiCTLe",
+    "Ce\u0301venot"
+  ],
+  "flair_274": [
+    "Ei",
+    "Lentre",
+    "Mit"
+  ],
+  "camenBert_ner_275": [
+    "Sar",
+    "ai",
+    "es"
+  ],
+  "sm_275": [
+    "Pais",
+    "Jacques.\\na",
+    "Pais",
+    "Pais",
+    "prie\\nPicrrotte",
+    "Tout",
+    "Pai ptus\\nde",
+    "vons",
+    "soutteir",
+    "Voie",
+    "St e",
+    "Crosses",
+    "Chose",
+    "Se\u0301vond",
+    "tTauguittement\\nan",
+    "Sanie",
+    "Consuttier",
+    "Spcille",
+    "Seicuoi\\ndn",
+    "Chevent",
+    "Sraiche",
+    "Eoie",
+    "Jui"
+  ],
+  "lg_275": [
+    "tont",
+    "Jacques.\\na",
+    "Pais",
+    "Guon",
+    "Pais",
+    "Tout",
+    "Voie Jamais,\\nESIse ICNEaTe",
+    "MAPASIN\\nESIJe Ouis",
+    "SanS CN",
+    "ComIe",
+    "Guaces",
+    "Se\u0301vond",
+    "tTauguittement\\nan",
+    "dirc",
+    "maiS",
+    "Spcille",
+    "Chevent retere\u0301s",
+    "Sraiche",
+    "Eoie",
+    "Jui",
+    "Ce\u0301venot",
+    "CoIiiS. Secutement"
+  ],
+  "flair_275": [],
+  "camenBert_ner_276": [
+    "Vitres",
+    "Chambre"
+  ],
+  "sm_276": [
+    "Tien.\\naAns Picrrotte",
+    "puusr\\nde",
+    "Tatoucie",
+    "Si Guetquun",
+    "denil",
+    "Ius",
+    "Tien",
+    "Mrme",
+    "Cueri",
+    "Sesucont",
+    "trace\u0301dienne\\nIs",
+    "a\u0300",
+    "Montparnasse\\nCnand",
+    "Muse",
+    "Ciens"
+  ],
+  "lg_276": [
+    "Chambre Sn",
+    "denil",
+    "Ius",
+    "Nooe",
+    "Cueri",
+    "Sesucont",
+    "mais\\nE1 ancuit",
+    "comue",
+    "Eatazet",
+    "Montparnasse\\nCnand",
+    "Daniet Esesette",
+    "Ciens"
+  ],
+  "flair_276": [
+    "Chambre",
+    "Montparnasse"
+  ],
+  "camenBert_ner_277": [
+    "Paire a Nadaess\\nCAT",
+    "Cemine",
+    "l",
+    "a COQue",
+    "Ve",
+    "Ceuts",
+    "CNrCIOPVEt",
+    "Paris"
+  ],
+  "sm_277": [
+    "Poution",
+    "Paut Trcte",
+    "Cemine",
+    "Quinie",
+    "Crand",
+    "Chose",
+    "conptetement\\nECuei",
+    "Saton",
+    "Chemine\u0301e Nambe",
+    "Givre",
+    "Petit Choce",
+    "pieds\\nde",
+    "Cans",
+    "Crand",
+    "Se\u0301sicne",
+    "Cacne"
+  ],
+  "lg_277": [
+    "Carder\\nCcher Jui",
+    "Sotunes",
+    "Poution",
+    "quec",
+    "Cemine",
+    "CNls",
+    "Ea COQue",
+    "Ceuts",
+    "Avee",
+    "Sanie\\nNOS",
+    "Quinie",
+    "Come\u0301die",
+    "Veur",
+    "saton",
+    "Simanche",
+    "Crand",
+    "Saton",
+    "Petit Choce",
+    "Sesoupie",
+    "lens",
+    "Se\u0301sicne",
+    "Mie Eatonctte",
+    "Cacne"
+  ],
+  "flair_277": [],
+  "camenBert_ner_278": [
+    "Au",
+    "Senectre",
+    "Grand ridesut",
+    "nConguille",
+    "Sesccne",
+    "Su\u00e9ridon",
+    "Chine",
+    "Sessin",
+    "Signes",
+    "Aire"
+  ],
+  "sm_278": [
+    "Pierrotte",
+    "Grand ridesut.\\nConguille",
+    "Sesccne",
+    "Compus",
+    "Cravons",
+    "Chine",
+    "Signes",
+    "Savoir",
+    "Soncement Serrie\u0300re",
+    "Chose",
+    "puis\\ntont s conf",
+    "it tenr",
+    "Esosette",
+    "Aire",
+    "Cest",
+    "Tontique",
+    "Gctques",
+    "Levme\\nCecette eNSciCre de Toutique",
+    "Settres CrOSSeS.\\nd'",
+    "Maison Satouerte\\nao"
+  ],
+  "lg_278": [
+    "Aute",
+    "Senectre",
+    "Grand",
+    "Compus",
+    "Cravons",
+    "Chine",
+    "pinceaut",
+    "Earbouittace",
+    "Dap3",
+    "Aueotce",
+    "Aire",
+    "Gctques",
+    "Paniel",
+    "Toutique",
+    "Maison Satouerte\\nao"
+  ],
+  "flair_278": [
+    "Aute",
+    "Chine",
+    "Maison"
+  ]
+}

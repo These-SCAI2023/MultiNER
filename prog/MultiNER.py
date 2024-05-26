@@ -1,3 +1,6 @@
+import os.path
+from os import path
+
 from transformers import AutoTokenizer, AutoModelForTokenClassification
 from transformers import pipeline
 
@@ -47,15 +50,9 @@ modele = ["camenBert_ner", "sm", "lg","flair"]
 
 for path in glob.glob(path_corpora):
     print("_____________",path)
-
-    # path_output = titre_auteur(path)
-    # print(path_output)
     for m in modele:
         print(" modele ", m, "start")
         liste_entite = []
-
-        path_output = titre_auteur(path)
-        # print(path_output)
         texte = lire_fichier(path)
         if m == "camenBert_ner":
 
@@ -68,7 +65,7 @@ for path in glob.glob(path_corpora):
             dico_entite[m] = liste_entite
         if m == "sm" or m=="lg":
             nlp_spacy = spacy.load("fr_core_news_%s" % m)
-            nlp_spacy.max_length = 3508822
+            nlp_spacy.max_length = 35088220
             doc = nlp_spacy(texte)
             for ent in doc.ents:
                 if ent.label_ == "LOC":
@@ -88,4 +85,4 @@ for path in glob.glob(path_corpora):
             dico_entite[m] = liste_entite
 
     print(dico_entite)
-    stocker("%s_multiNER.json"%path,dico_entite)
+    stocker("%s__multiNER.json"%path,dico_entite)
