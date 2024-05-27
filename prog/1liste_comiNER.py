@@ -68,7 +68,7 @@ for path in glob.glob(path_corpora):
             tmp_list = list(dico_out["camenBert"])
             for v in value:
                 tmp_list.append(v)
-            dico_out["camenBert"] = tmp_list
+            dico_out["carolineJean-Baptiste/camembert-ner"] = tmp_list
 
         if "flair" in k:
             # print(k)
@@ -77,6 +77,6 @@ for path in glob.glob(path_corpora):
             tmp_list = list(dico_out["flair"])
             for v in value:
                 tmp_list.append(v)
-            dico_out["flair"] = tmp_list
+            dico_out["flair/ner-french"] = tmp_list
 
     stocker(path_output, dico_out)
