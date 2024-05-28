@@ -1,4 +1,3 @@
-# import time
 import json
 from pathlib import Path
 
@@ -8,6 +7,7 @@ from flair.data import Sentence
 from flair.models import SequenceTagger
 import spacy
 from tqdm.auto import tqdm
+from torch.cuda import empty_cache, OutOfMemoryError
 
 
 def lire_fichier(chemin):
@@ -33,20 +33,20 @@ def upd_dico(chemin, contenu):
 path_corpora = Path("../DATA2")
 
 dico = {}
-modele = [# "camenBert_ner",
+modele = [
+    # "camenBert_ner",
     # "sm",
     # "lg",
-    "flair"]
+    "flair"
+]
 
 # Camembert-ner
 # tokenizer = AutoTokenizer.from_pretrained("Jean-Baptiste/camembert-ner")
 # model = AutoModelForTokenClassification.from_pretrained("Jean-Baptiste/camembert-ner")
 # nlp_camenBert = pipeline('ner', model=model, tokenizer=tokenizer, aggregation_strategy="simple")
-# print("Seconds since epoch Camembert-ner load =", seconds)
 
 # Flair
 tagger = SequenceTagger.load("flair/ner-french")
-# print("Seconds since epoch flair load =", seconds)
 
 spacys = {}
 for m in modele:
@@ -82,22 +82,29 @@ for path in pbar:
             dico_entite[m] = [ent.text for ent in doc.ents if ent.label_ == "LOC"]
 
         if m == "flair":
-            try:
-                pbar.set_postfix_str(f"Flair 1")
-                sentence = Sentence(texte)
-                tagger.predict(sentence)
-                pbar.set_postfix_str(f"Flair 2")
-                dico_entite[m] = [entity[0].text for entity in sentence.get_spans('ner') if entity.tag == "LOC"]
-            except Exception as e:
-                print(e)
-                texte1, texte2 = texte[:len(texte) // 2], texte[len(texte) // 2:]
-                sentence1 = Sentence(texte1)
-                tagger.predict(sentence1)
-                dico_entite[m] = [entity[0].text for entity in sentence1.get_spans('ner') if entity.tag == "LOC"]
-                del sentence1
-                sentence2 = Sentence(texte2)
-                tagger.predict(sentence2)
-                pbar.set_postfix_str(f"Flair 1")
-                dico_entite[m].extend([entity[0].text for entity in sentence2.get_spans('ner') if entity.tag == "LOC"])
+            i = 0
+            pbar.set_postfix_str(f"Flair 1")
+            while i < 10:
+                try:
+                    if i == 0:
+                        sentence = Sentence(texte)
+                        tagger.predict(sentence)
+                        pbar.set_postfix_str(f"Flair 2")
+                        dico_entite[m] = [entity[0].text for entity in sentence.get_spans('ner') if entity.tag == "LOC"]
+                        break
+                    else:
+                        empty_cache()
+                        print(f"Erreur {i}")
+                        chunks = [0] + [len(texte) // i * j for j in range(1, i)] + [len(texte)]
+                        dico_entite[m] = []
+                        for j in range(i):
+                            sentence = Sentence(texte[chunks[j]:chunks[j + 1]])
+                            tagger.predict(sentence)
+                            dico_entite[m].extend([entity[0].text for entity in sentence.get_spans('ner') if entity.tag == "LOC"])
+                        break
+                except OutOfMemoryError:
+                    i += 1
+            else:
+                raise OutOfMemoryError
 
-    stocker(path_output, dico_entite)  # print("Seconds since epoch total =", seconds_total)
+    stocker(path_output, dico_entite)
