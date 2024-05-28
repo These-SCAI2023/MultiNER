@@ -1,8 +1,8 @@
 import json
 from pathlib import Path
 
-# from transformers import AutoTokenizer, AutoModelForTokenClassification
-# from transformers import pipeline
+from transformers import AutoTokenizer, AutoModelForTokenClassification
+from transformers import pipeline
 from flair.data import Sentence
 from flair.models import SequenceTagger
 import spacy
@@ -34,16 +34,16 @@ path_corpora = Path("../DATA2")
 
 dico = {}
 modele = [
-    # "camenBert_ner",
-    # "sm",
-    # "lg",
-    "flair"
+    "camenBert_ner",
+    "sm",
+    "lg",
+    # "flair"
 ]
 
 # Camembert-ner
-# tokenizer = AutoTokenizer.from_pretrained("Jean-Baptiste/camembert-ner")
-# model = AutoModelForTokenClassification.from_pretrained("Jean-Baptiste/camembert-ner")
-# nlp_camenBert = pipeline('ner', model=model, tokenizer=tokenizer, aggregation_strategy="simple")
+tokenizer = AutoTokenizer.from_pretrained("Jean-Baptiste/camembert-ner")
+model = AutoModelForTokenClassification.from_pretrained("Jean-Baptiste/camembert-ner")
+nlp_camenBert = pipeline('ner', model=model, tokenizer=tokenizer, aggregation_strategy="simple")
 
 # Flair
 tagger = SequenceTagger.load("flair/ner-french")
@@ -57,11 +57,14 @@ for m in modele:
         spacys[m] = spacy.load("fr_core_news_lg")
         spacys[m].max_length = 35088220
 
-pbar = tqdm(list(path_corpora.glob("*/*/*.txt")))
+pbar = tqdm(sorted(path_corpora.glob("*/*/*.txt"), reverse=True))
 for path in pbar:
+    path_output = path.parent / f"{path.name}_others.json"
+    if path_output.exists():
+        continue
+
     dico_entite = {}
 
-    path_output = f"{path.name}_flair_only.json"
     texte = lire_fichier(path)
 
     pbar.set_description(f"Traitement de {path.name}")
@@ -73,7 +76,7 @@ for path in pbar:
             pbar.set_postfix_str("Camembert-ner 1")
             text_camembertner = nlp_camenBert(texte)
             pbar.set_postfix_str("Camembert-ner 2")
-            dico_entite[m] = [entite["word"] for entite in text_camembertner if entite["entity"] == "LOC"]
+            dico_entite[m] = [entite["word"] for entite in text_camembertner for key, value in entite.items() if value == "LOC"]
 
         if m in ("sm", "lg"):
             pbar.set_postfix_str(f"Spacy {m} 1")
@@ -103,7 +106,10 @@ for path in pbar:
                             dico_entite[m].extend([entity[0].text for entity in sentence.get_spans('ner') if entity.tag == "LOC"])
                         break
                 except OutOfMemoryError:
-                    i += 1
+                    if i == 0:
+                        i = 2
+                    else:
+                        i += 1
             else:
                 raise OutOfMemoryError
 
