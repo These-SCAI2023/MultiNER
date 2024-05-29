@@ -35,8 +35,8 @@ path_corpora = Path("../DATA2")
 dico = {}
 modele = [
     "camenBert_ner",
-    "sm",
-    "lg",
+    # "sm",
+    # "lg",
     # "flair"
 ]
 
@@ -59,7 +59,7 @@ for m in modele:
 
 pbar = tqdm(sorted(path_corpora.glob("*/*/*.txt"), reverse=True))
 for path in pbar:
-    path_output = path.parent / f"{path.name}_others.json"
+    path_output = path.parent / f"{path.name}_bert_only.json"
     if path_output.exists():
         continue
 
@@ -74,9 +74,16 @@ for path in pbar:
 
         if m == "camenBert_ner":
             pbar.set_postfix_str("Camembert-ner 1")
-            text_camembertner = nlp_camenBert(texte)
-            pbar.set_postfix_str("Camembert-ner 2")
-            dico_entite[m] = [entite["word"] for entite in text_camembertner for key, value in entite.items() if value == "LOC"]
+            # text_camembertner = nlp_camenBert(texte)
+            # pbar.set_postfix_str("Camembert-ner 2")
+            # dico_entite[m] = [entite["word"] for entite in text_camembertner for key, value in entite.items() if value == "LOC"]
+            nb_chunks = len(texte) // 3000
+            chunks = [0] + [len(texte) // nb_chunks * j for j in range(1, nb_chunks)] + [len(texte)]
+            dico_entite[m] = []
+            for i in range(nb_chunks):
+                text_camembertner = nlp_camenBert(texte[chunks[i]:chunks[i + 1]])
+                dico_entite[m].extend([entite["word"] for entite in text_camembertner for key, value in entite.items() if value == "LOC"])
+
 
         if m in ("sm", "lg"):
             pbar.set_postfix_str(f"Spacy {m} 1")

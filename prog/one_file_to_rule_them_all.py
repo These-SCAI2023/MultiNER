@@ -7,10 +7,18 @@ path_corpora = Path("../DATA2")
 
 pbar = tqdm(sorted(path_corpora.glob("*/*/*.txt"), reverse=True))
 
-suffix_to_fuze = {
+suffix_to_fuze = (
     "_others.json",
     "_flair_only.json",
+    "_bert_only.json",
+)
+
+to_rename = {
+    "camenBert_ner": "J-B/camembert-ner",
+    "flair": "flair/ner-french",
+    "lg": "fr_core_news_lg",
 }
+
 
 for path in pbar:
     pbar.set_description(str(path))
@@ -27,7 +35,7 @@ for path in pbar:
     with open(path.parent / (path.name + "_fuze.json"), "w") as f:
         json.dump(dico, f, indent=2)
 
-    dico_sets = {k: list(set(v)) for k, v in dico.items()}
+    dico_sets = {to_rename.get(k, k): list(set(v)) for k, v in dico.items()}
 
     with open(path.parent / (path.name + "_fuze_sets.json"), "w") as f:
         json.dump(dico_sets, f, indent=2)
