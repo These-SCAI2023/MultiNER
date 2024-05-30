@@ -14,9 +14,9 @@ suffix_to_fuze = (
 )
 
 to_rename = {
-    "camenBert_ner": "J-B/camembert-ner",
-    "flair": "flair/ner-french",
-    "lg": "fr_core_news_lg",
+    "camenBert_ner": "Bert", #"J-B/camembert-ner",
+    "flair": "Flair", #"flair/ner-french",
+    "lg": "SpaCy", #"fr_core_news_lg",
 }
 
 
