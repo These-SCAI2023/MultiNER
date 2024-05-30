@@ -43,10 +43,13 @@ modele = [
 # Camembert-ner
 tokenizer = AutoTokenizer.from_pretrained("Jean-Baptiste/camembert-ner")
 model = AutoModelForTokenClassification.from_pretrained("Jean-Baptiste/camembert-ner")
-nlp_camenBert = pipeline('ner', model=model, tokenizer=tokenizer, aggregation_strategy="simple")
+nlp_camenBert = pipeline('ner', model=model, tokenizer=tokenizer, aggregation_strategy="simple", device="cuda")
 
 # Flair
 tagger = SequenceTagger.load("flair/ner-french")
+
+nlp = spacy.load("fr_core_news_sm")
+nlp.max_length = 35088220
 
 spacys = {}
 for m in modele:
@@ -60,8 +63,8 @@ for m in modele:
 pbar = tqdm(sorted(path_corpora.glob("*/*/*.txt"), reverse=True))
 for path in pbar:
     path_output = path.parent / f"{path.name}_bert_only.json"
-    if path_output.exists():
-        continue
+    # if path_output.exists():
+    #     continue
 
     dico_entite = {}
 
@@ -77,11 +80,14 @@ for path in pbar:
             # text_camembertner = nlp_camenBert(texte)
             # pbar.set_postfix_str("Camembert-ner 2")
             # dico_entite[m] = [entite["word"] for entite in text_camembertner for key, value in entite.items() if value == "LOC"]
-            nb_chunks = len(texte) // 3000
-            chunks = [0] + [len(texte) // nb_chunks * j for j in range(1, nb_chunks)] + [len(texte)]
+            # nb_chunks = len(texte) // 500
+            # chunks = [0] + [len(texte) // nb_chunks * j for j in range(1, nb_chunks)] + [len(texte)]
+            doc = nlp(texte)
+            sents = [sent.text.strip() for sent in doc.sents]
+
             dico_entite[m] = []
-            for i in range(nb_chunks):
-                text_camembertner = nlp_camenBert(texte[chunks[i]:chunks[i + 1]])
+            for s in sents:
+                text_camembertner = nlp_camenBert(s)
                 dico_entite[m].extend([entite["word"] for entite in text_camembertner for key, value in entite.items() if value == "LOC"])
 
 
